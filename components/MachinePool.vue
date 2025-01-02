@@ -121,10 +121,10 @@ onMounted(() => {
             <div class="criticalMachineLine" v-for="machine in allMachines.filter((machine) => {return machine.critical})" :key="machine.name">
                 <span>{{  machine.name }}</span>
                 <div class="machineLogo">
-                    <img :src="'_nuxt/public/' + machine.image + '.svg'" width="40" height="40"/>
-                    <img class="stateLogo" v-if="machine.state === 1" src="public/success.svg" width="20" height="20"/>
-                    <img class="stateLogo" v-if="machine.state === 2" src="public/warning.svg" width="20" height="20"/>
-                    <img class="stateLogo" v-if="machine.state === 3" src="public/error.svg" width="20" height="20"/>
+                    <NuxtImg :src="'/' + machine.image + '.svg'" width="40" height="40"/>
+                    <NuxtImg class="stateLogo" v-if="machine.state === 1" src="/success.svg" width="20" height="20"/>
+                    <NuxtImg class="stateLogo" v-if="machine.state === 2" src="/warning.svg" width="20" height="20"/>
+                    <NuxtImg class="stateLogo" v-if="machine.state === 3" src="/error.svg" width="20" height="20"/>
                 </div>
                 <MachineState :state="machine.state" />
             </div>
