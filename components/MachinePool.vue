@@ -178,7 +178,10 @@ onMounted(() => {
     padding: 10px;
     font-size: 12px;
     background-color: black;
-    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    scrollbar-color: white black;
     min-height: 0;
 }
 .allMachineLine {
