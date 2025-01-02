@@ -49,7 +49,7 @@ def generate_log_messages(count):
             messages.append(f"[{timestamp}] ERROR: {user} encountered an error: {error} (Report: {report}).")
     return messages
 
-# Generate 300 log messages
+# Generate 1000 log messages
 log_messages = generate_log_messages(1000)
 
 # Write to a file

@@ -55,7 +55,7 @@ const { value, title } = defineProps(['value', 'title']);
             </div>
         </div>
         <div>
-            {{ value }}%
+            {{ Math.round(Number(value) * 100 / 15) }}%
         </div>
     </div>
 </template>

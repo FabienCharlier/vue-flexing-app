@@ -9,6 +9,29 @@ const allMachines = ref(machines);
 const currentTimerId = ref(0);
 const lastMessageId = ref(-1);
 
+const selectMachineIndex = () => {
+    const erroredMachineIndexes = [];
+    const offlineMachineIndexes = [];
+    const onlineMachineIndexes = [];
+    allMachines.value.forEach((machine, index) => {
+        if (machine.state === 3) {
+            erroredMachineIndexes.push(index);
+        } else if (machine.state === 2) {
+            offlineMachineIndexes.push(index);
+        } else {
+            onlineMachineIndexes.push(index);
+        }
+    });
+
+    if (erroredMachineIndexes.length > 5) {
+        return erroredMachineIndexes[Math.floor(Math.random() * erroredMachineIndexes.length)];
+    } else if (offlineMachineIndexes.length > 12) {
+        return offlineMachineIndexes[Math.floor(Math.random() * offlineMachineIndexes.length)];
+    } else {
+        return Math.floor(Math.random() * allMachines.value.length);
+    }
+}
+
 const findNewState = (oldState) => {
     let newState = Math.floor(Math.random() * 3) + 1
     while (newState === oldState) {
@@ -19,12 +42,12 @@ const findNewState = (oldState) => {
 }
 
 const getNextDelay = () => {
-  return Math.floor(Math.random() * 1500) + 500;
+  return Math.floor(Math.random() * 2500) + 1500;
 }
 
 const refreshTimeout = (delay) => {
   currentTimerId.value = setTimeout(() => {
-    const selectedIndex = Math.floor(allMachines.value.length * Math.random())
+    const selectedIndex = selectMachineIndex();
     const selectedMachine = allMachines.value[selectedIndex];
     const newState = findNewState(selectedMachine.state);
     allMachines.value[selectedIndex].state = newState;
@@ -61,25 +84,27 @@ watchEffect(() => {
             refreshTimeout(getNextDelay() + 10000)
             break;
         case "online":
-            machineToUpdate = allMachines.value.find((machine) => machine.name === currentMessage.command)
+            machineToUpdate = allMachines.value.find((machine) => machine.name.toLowerCase() === currentMessage.command.toLowerCase())
             if (undefined === machineToUpdate) {
                 break;
             }
             machineToUpdate.state = 1;
             break;
         case "offline":
-            machineToUpdate = allMachines.value.find((machine) => machine.name === currentMessage.command)
+            machineToUpdate = allMachines.value.find((machine) => machine.name.toLowerCase() === currentMessage.command.toLowerCase())
             if (undefined === machineToUpdate) {
                 break;
             }
             machineToUpdate.state = 2;
             break;
         case "error":
-            machineToUpdate = allMachines.value.find((machine) => machine.name === currentMessage.command)
+            machineToUpdate = allMachines.value.find((machine) => machine.name.toLowerCase() === currentMessage.command.toLowerCase())
             if (undefined === machineToUpdate) {
                 break;
             }
             machineToUpdate.state = 3;
+            break;
+        default:
             break;
     }
     lastMessageId.value = currentMessage.id;

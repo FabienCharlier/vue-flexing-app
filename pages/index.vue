@@ -21,6 +21,11 @@ const handleOnline = (command) => {
     messageId.value++;
 }
 
+useSeoMeta({
+  title: 'Monitoring dashboard',
+  description: 'Monitoring dashboard',
+})
+
 </script>
 
 <template>

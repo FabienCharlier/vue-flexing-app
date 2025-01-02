@@ -96,6 +96,8 @@ watchEffect(() => {
       writeLineAfterDelay("INFO: " + currentMessage.command + " is now online and fully operational !", 1000);
       refreshTimeout(getNextDelay() + 1000)
       break;
+    default:
+      break;
   }
   lastMessageId.value = currentMessage.id;
 })
