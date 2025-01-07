@@ -1,13 +1,15 @@
 <script setup>
-import { ref, watch } from 'vue';
+import { ref } from 'vue';
 import MachineState from './MachineState.vue';
 import machines from '../utils/machines.json';
 
 const { bus } = defineProps(['bus']);
 
-const allMachines = ref(machines);
+const allMachines = ref(JSON.parse(JSON.stringify(machines)));
 const currentTimerId = ref(0);
-const lastMessageId = ref(-1);
+
+const maxBusId = bus.map((message) => message.id).reduce((a, b) => Math.max(a, b), -1);
+const lastMessageId = ref(maxBusId);
 
 const selectMachineIndex = () => {
     const erroredMachineIndexes = [];
@@ -112,6 +114,10 @@ watchEffect(() => {
 
 onMounted(() => {
   refreshTimeout(getNextDelay());
+})
+
+onUnmounted(() => {
+  clearTimeout(currentTimerId.value);
 })
 </script>
 

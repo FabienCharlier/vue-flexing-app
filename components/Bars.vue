@@ -1,7 +1,8 @@
 <script setup>
 const { bus } = defineProps(['bus']);
 
-const lastMessageId = ref(-1);
+const maxBusId = bus.map((message) => message.id).reduce((a, b) => Math.max(a, b), -1);
+const lastMessageId = ref(maxBusId);
 
 const multipleBarsValues = ref([4, 5, 7, 6, 8, 2, 5, 3, 6, 7]);
 const currentMultipleBarsTimerId = ref(0);
@@ -114,6 +115,12 @@ onMounted(() => {
     refreshMultipleBarsTimeout(getNextDelay());
     refreshBigBarsTimeout(getNextDelay());
     refreshCircularGraphsTimeout(getNextDelayForCircularGraph());
+})
+
+onUnmounted(() => {
+    clearTimeout(currentMultipleBarsTimerId.value);
+    clearTimeout(currentBigBarsTimerId.value);
+    clearTimeout(currentCircularGraphsTimerId.value);
 })
 
 watchEffect(() => {

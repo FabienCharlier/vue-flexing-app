@@ -1,5 +1,5 @@
 <script setup>
-import { ref, onMounted } from 'vue';
+import { ref } from 'vue';
 import logs from '../utils/logs.json';
 import machines from '../utils/machines.json';
 
@@ -8,7 +8,9 @@ const { bus } = defineProps(['bus']);
 const currentId = ref(0);
 const terminalLines = ref([]);
 const currentTimerId = ref(0);
-const lastMessageId = ref(-1);
+
+const maxBusId = bus.map((message) => message.id).reduce((a, b) => Math.max(a, b), -1);
+const lastMessageId = ref(maxBusId);
 
 const addLine = (text, withTimeStamp = true) => {
   if (terminalLines.value.length > 150) {
@@ -104,6 +106,10 @@ watchEffect(() => {
 
 onMounted(() => {
   refreshTimeout(getNextDelay());
+})
+
+onUnmounted(() => {
+  clearTimeout(currentTimerId.value);
 })
 </script>
 

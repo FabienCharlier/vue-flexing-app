@@ -1,7 +1,7 @@
 <script setup>
-import { ref, onMounted } from 'vue';
+import { ref } from 'vue';
 
-const emit = defineEmits(['error', 'offline', 'online', 'reboot']);
+const emit = defineEmits(['error', 'offline', 'online', 'reboot', 'settings', 'closesettings']);
 
 const currentId = ref(1);
 const terminalLines = ref([
@@ -9,7 +9,6 @@ const terminalLines = ref([
     {id: 1, text: "Loading packages : [>\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0]", input: false},
 ]);
 
-const inputText = ref("");
 const terminalActive = ref(false)
 const myInput = useTemplateRef('my-input');
 
@@ -25,6 +24,13 @@ const eventuallySendMessage = (command) => {
         return true;
     } else if (command.startsWith("reboot")) {
         emit("reboot", command.replaceAll("reboot", ""));
+        return true;
+    } else if (command.startsWith("settings")) {
+        emit("settings", command.replaceAll("settings", ""));
+        console.log("Settings emitted");
+        return true;
+    } else if (command.startsWith("close settings")) {
+        emit("closesettings", command.replaceAll("close settings", ""));
         return true;
     }
     return false;
