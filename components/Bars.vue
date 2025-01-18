@@ -214,6 +214,7 @@ watchEffect(() => {
   grid-template-columns: 2fr 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 10px;
+  overflow: scroll;
 }
 
 .circularGraphs {

@@ -4,7 +4,9 @@ import { ref } from 'vue';
 const bus = ref([]);
 const messageId = ref(0);
 const configurationPanelOpened = ref(false);
+
 const widgetList = ref(["machine-pool", "logs-terminal", "writable-terminal", "bars"]);
+const templateType = ref("twoByTwoGrid");
 
 const allWidgetsList = [
     {code: "machine-pool", name: "Parc de machines"},
@@ -12,9 +14,46 @@ const allWidgetsList = [
     {code: "writable-terminal", name: "Terminal d'émission de commandes"},
     {code: "bars", name: "Divers graphiques de performance"}
 ];
+const allTemplateTypes = [
+    {
+        code: "twoByTwoGrid",
+        size: 4,
+        name: "quatre widgets en 2x2",
+        styles: {}
+    },
+    {
+        code: "oneByOneGrid",
+        size: 1,
+        name: "un seul widget",
+        styles: {}
+    },
+    {
+        code: "oneLeftThreeRight",
+        size: 4,
+        name: "un gros widget principal à gauche, trois petits à droite",
+        styles: {0: {gridColumn: "1 / 2", gridRow: "1 / 4"}}
+    },
+]
+const completeFullTemplateType = computed(() => {
+    return allTemplateTypes.find((element) => element.code === templateType.value) ?? {};
+})
 
 const updateGivenWidget = (widgetName, position) => {
     widgetList.value[position] = widgetName;
+}
+
+const updateTowardsTemplate = (template) => {
+    templateType.value = template.code;
+    const currentWidgetNumber = widgetList.value.length;
+    if (currentWidgetNumber === template.size) {
+        return;
+    } else if (currentWidgetNumber < template.size) {
+        for (let i = currentWidgetNumber; i < template.size; i++) {
+            widgetList.value.push("bars");
+        }
+    } else {
+        widgetList.value = widgetList.value.slice(0, template.size);
+    }
 }
 
 const handleReboot = (command) => {
@@ -57,15 +96,26 @@ useSeoMeta({
 </script>
 
 <template>
-    <div class="grid-main-container">
-        <EditableWidget v-for="(widget, index) in widgetList" :key="index" :type="widget" :bus="bus" :handlingFunctions="handlingFunctions" />
+    <div class="grid-main-container" :class="templateType">
+        <template v-for="(widget, index) in widgetList" :key="index">
+            <EditableWidget
+                :type="widget"
+                :bus="bus"
+                :handlingFunctions="handlingFunctions"
+                :style="index in completeFullTemplateType.styles ? completeFullTemplateType.styles[index] ?? {} : {}"
+            />
+        </template>
     </div>
     <div v-if="configurationPanelOpened" class="configurationPanel">
         <h3>Panneau de configuration {{ widgetList.length }}</h3>
+        <div>Template d'affichage</div>
+        <template v-for="template in allTemplateTypes" :key="template.code">
+            <button @click="() => updateTowardsTemplate(template)" class="stylishButton">{{ template.code }}</button>
+        </template>
         <template v-for="slot in widgetList.length" :key="slot">
             <div>Widget à mettre dans l'emplacement : {{  slot }}</div>
             <template v-for="widget in allWidgetsList" :key="slot.toString() + widget.code">
-                <button @click="() => updateGivenWidget(widget.code, slot - 1)">{{ widget.name }}</button>
+                <button @click="() => updateGivenWidget(widget.code, slot - 1)" class="stylishButton">{{ widget.name }}</button>
             </template>
         </template>
     </div>
@@ -81,11 +131,24 @@ useSeoMeta({
 
     .grid-main-container {
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 9fr 9fr;
         gap: 20px;
         height: calc(100% - 40px);
         padding: 20px;
+    }
+
+    .twoByTwoGrid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr 1fr;
+    }
+
+    .oneByOneGrid {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }
+
+    .oneLeftThreeRight {
+        grid-template-columns: 2fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
     }
 
     .single-widget {
@@ -107,6 +170,17 @@ useSeoMeta({
         flex-direction: column;
         gap: 10px;
         align-items: center;
+    }
+
+    .stylishButton {
+        border-radius: 10px;
+        border: 1px solid white;
+        background-color: black;
+        color: white;
+    }
+
+    .stylishButton:hover {
+        border: 2px solid white;
     }
 
     .configurationPanelButton {

@@ -1,2686 +1,1002 @@
 [
   { "text": "INFO: Cache cleared on Email Server." },
   { "text": "INFO: Cache cleared on Cache Service." },
-  {
-    "text": "INFO: user_17 viewed dashboard (Report: report_3, Format: Excel)."
-  },
-  {
-    "text": "INFO: Data sync completed on Email Server."
-  },
-  {
-    "text": "ERROR: user_30 encountered an error: Email delivery failure (Report: report_7)."
-  },
-  {
-    "text": "ERROR: user_55 encountered an error: Email delivery failure (Report: report_38)."
-  },
-  {
-    "text": "INFO: user_45 updated account settings (Report: report_26, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_38 scheduled an email (Report: report_35, Format: PDF)."
-  },
-  {
-    "text": "INFO: Data sync completed on Email Server."
-  },
-  {
-    "text": "ERROR: user_80 encountered an error: Permission denied (Report: report_27)."
-  },
-  {
-    "text": "ERROR: user_99 encountered an error: Unauthorized action (Report: report_27)."
-  },
-  {
-    "text": "INFO: user_28 scheduled an email (Report: report_22, Format: CSV)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "ERROR: user_81 encountered an error: Unauthorized action (Report: report_19)."
-  },
-  {
-    "text": "ERROR: user_59 encountered an error: Permission denied (Report: report_17)."
-  },
-  {
-    "text": "ERROR: user_50 encountered an error: Email delivery failure (Report: report_41)."
-  },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
-  {
-    "text": "ERROR: user_59 encountered an error: Permission denied (Report: report_11)."
-  },
-  {
-    "text": "INFO: user_26 scheduled an email (Report: report_20, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_48 logged in (Report: report_11, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_22 exported a report (Report: report_22, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_39 changed password (Report: report_43, Format: Excel)."
-  },
+  {"text": "INFO: user_17 viewed dashboard (Report: report_3, Format: Excel)."},
+  {"text": "INFO: Data sync completed on Email Server."},
+  {"text": "ERROR: user_30 encountered an error: Email delivery failure (Report: report_7)."},
+  {"text": "ERROR: user_55 encountered an error: Email delivery failure (Report: report_38)."},
+  {"text": "INFO: user_45 updated account settings (Report: report_26, Format: Excel)."},
+  {"text": "INFO: user_38 scheduled an email (Report: report_35, Format: PDF)."},
+  {"text": "INFO: Data sync completed on Email Server."},
+  {"text": "ERROR: user_80 encountered an error: Permission denied (Report: report_27)."},
+  {"text": "ERROR: user_99 encountered an error: Unauthorized action (Report: report_27)."},
+  {"text": "INFO: user_28 scheduled an email (Report: report_22, Format: CSV)."},
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "ERROR: user_81 encountered an error: Unauthorized action (Report: report_19)."},
+  {"text": "ERROR: user_59 encountered an error: Permission denied (Report: report_17)."},
+  {"text": "ERROR: user_50 encountered an error: Email delivery failure (Report: report_41)."},
+  {"text": "INFO: System backup completed on Database."},
+  {"text": "ERROR: user_59 encountered an error: Permission denied (Report: report_11)."},
+  {"text": "INFO: user_26 scheduled an email (Report: report_20, Format: CSV)."},
+  {"text": "INFO: user_48 logged in (Report: report_11, Format: CSV)."},
+  {"text": "INFO: user_22 exported a report (Report: report_22, Format: PDF)."},
+  {"text": "INFO: user_39 changed password (Report: report_43, Format: Excel)."},
   { "text": "INFO: Data sync completed on CRM." },
-  {
-    "text": "INFO: user_44 scheduled an email (Report: report_35, Format: PDF)."
-  },
+  {"text": "INFO: user_44 scheduled an email (Report: report_35, Format: PDF)."},
   { "text": "INFO: Email sent on Reporting Engine." },
-  {
-    "text": "INFO: user_54 scheduled an email (Report: report_11, Format: PDF)."
-  },
+  {"text": "INFO: user_54 scheduled an email (Report: report_11, Format: PDF)."},
   { "text": "INFO: Cache cleared on Cache Service." },
-  {
-    "text": "ERROR: user_5 encountered an error: Invalid input (Report: report_22)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_57 changed password (Report: report_19, Format: Excel)."
-  },
+  {"text": "ERROR: user_5 encountered an error: Invalid input (Report: report_22)."},
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
+  {"text": "INFO: user_57 changed password (Report: report_19, Format: Excel)."},
   { "text": "INFO: Email sent on CRM." },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
-  {
-    "text": "INFO: user_58 logged in (Report: report_5, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_15 encountered an error: Permission denied (Report: report_27)."
-  },
+  {"text": "INFO: Scheduled task executed on Email Server."},
+  {"text": "INFO: user_58 logged in (Report: report_5, Format: CSV)."},
+  {"text": "ERROR: user_15 encountered an error: Permission denied (Report: report_27)."},
   { "text": "INFO: Email sent on Cache Service." },
   { "text": "INFO: Email sent on Cache Service." },
-  {
-    "text": "INFO: user_97 deleted a report (Report: report_35, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_38 encountered an error: Data not found (Report: report_13)."
-  },
-  {
-    "text": "INFO: user_31 scheduled an email (Report: report_2, Format: Excel)."
-  },
+  {"text": "INFO: user_97 deleted a report (Report: report_35, Format: CSV)."},
+  {"text": "ERROR: user_38 encountered an error: Data not found (Report: report_13)."},
+  {"text": "INFO: user_31 scheduled an email (Report: report_2, Format: Excel)."},
   { "text": "INFO: Cache cleared on Email Server." },
-  {
-    "text": "INFO: user_75 viewed dashboard (Report: report_12, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_85 exported a report (Report: report_39, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_5 generated a report (Report: report_38, Format: Excel)."
-  },
-  {
-    "text": "INFO: Report generated on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_33 encountered an error: Data not found (Report: report_23)."
-  },
-  {
-    "text": "INFO: user_23 generated a report (Report: report_38, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_9 encountered an error: Invalid input (Report: report_6)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
-  {
-    "text": "ERROR: user_48 encountered an error: Email delivery failure (Report: report_41)."
-  },
-  {
-    "text": "ERROR: user_86 encountered an error: Email delivery failure (Report: report_32)."
-  },
-  {
-    "text": "INFO: user_39 deleted a report (Report: report_14, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_43 encountered an error: Data not found (Report: report_40)."
-  },
-  {
-    "text": "INFO: user_45 changed password (Report: report_34, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_76 scheduled an email (Report: report_25, Format: CSV)."
-  },
+  {"text": "INFO: user_75 viewed dashboard (Report: report_12, Format: PDF)."},
+  {"text": "INFO: user_85 exported a report (Report: report_39, Format: CSV)."},
+  {"text": "INFO: user_5 generated a report (Report: report_38, Format: Excel)."},
+  {"text": "INFO: Report generated on Reporting Engine."},
+  {"text": "ERROR: user_33 encountered an error: Data not found (Report: report_23)."},
+  {"text": "INFO: user_23 generated a report (Report: report_38, Format: PDF)."},
+  {"text": "ERROR: user_9 encountered an error: Invalid input (Report: report_6)."},
+  {"text": "INFO: Scheduled task executed on Email Server."},
+  {"text": "ERROR: user_48 encountered an error: Email delivery failure (Report: report_41)."},
+  {"text": "ERROR: user_86 encountered an error: Email delivery failure (Report: report_32)."},
+  {"text": "INFO: user_39 deleted a report (Report: report_14, Format: CSV)."},
+  {"text": "ERROR: user_43 encountered an error: Data not found (Report: report_40)."},
+  {"text": "INFO: user_45 changed password (Report: report_34, Format: Excel)."},
+  {"text": "INFO: user_76 scheduled an email (Report: report_25, Format: CSV)."},
   { "text": "INFO: Email sent on Reporting Engine." },
-  {
-    "text": "INFO: user_78 changed password (Report: report_39, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_98 changed password (Report: report_14, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_86 encountered an error: Email delivery failure (Report: report_40)."
-  },
+  {"text": "INFO: user_78 changed password (Report: report_39, Format: Excel)."},
+  {"text": "INFO: user_98 changed password (Report: report_14, Format: CSV)."},
+  {"text": "ERROR: user_86 encountered an error: Email delivery failure (Report: report_40)."},
   { "text": "INFO: Report generated on Cache Service." },
-  {
-    "text": "INFO: user_44 scheduled an email (Report: report_13, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_14 encountered an error: Permission denied (Report: report_29)."
-  },
-  {
-    "text": "INFO: API request processed on Cache Service."
-  },
-  {
-    "text": "INFO: user_38 updated account settings (Report: report_37, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_47 encountered an error: Database timeout (Report: report_41)."
-  },
-  {
-    "text": "ERROR: user_28 encountered an error: Email delivery failure (Report: report_24)."
-  },
-  {
-    "text": "INFO: user_75 changed password (Report: report_17, Format: CSV)."
-  },
+  {"text": "INFO: user_44 scheduled an email (Report: report_13, Format: CSV)."},
+  {"text": "ERROR: user_14 encountered an error: Permission denied (Report: report_29)."},
+  {"text": "INFO: API request processed on Cache Service."},
+  {"text": "INFO: user_38 updated account settings (Report: report_37, Format: Excel)."},
+  {"text": "ERROR: user_47 encountered an error: Database timeout (Report: report_41)."},
+  {"text": "ERROR: user_28 encountered an error: Email delivery failure (Report: report_24)."},
+  {"text": "INFO: user_75 changed password (Report: report_17, Format: CSV)."},
   { "text": "INFO: Email sent on Email Server." },
-  {
-    "text": "INFO: Scheduled task executed on Cache Service."
-  },
-  {
-    "text": "ERROR: user_33 encountered an error: Database timeout (Report: report_24)."
-  },
-  {
-    "text": "INFO: user_93 updated account settings (Report: report_38, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_58 generated a report (Report: report_26, Format: Excel)."
-  },
+  {"text": "INFO: Scheduled task executed on Cache Service."},
+  {"text": "ERROR: user_33 encountered an error: Database timeout (Report: report_24)."},
+  {"text": "INFO: user_93 updated account settings (Report: report_38, Format: PDF)."},
+  {"text": "INFO: user_58 generated a report (Report: report_26, Format: Excel)."},
   { "text": "INFO: API request processed on CRM." },
-  {
-    "text": "INFO: user_84 logged out (Report: report_19, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_3 encountered an error: Data not found (Report: report_43)."
-  },
-  {
-    "text": "ERROR: user_85 encountered an error: Data not found (Report: report_8)."
-  },
-  {
-    "text": "INFO: user_61 generated a report (Report: report_31, Format: Excel)."
-  },
-  {
-    "text": "INFO: API request processed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_42 encountered an error: Unauthorized action (Report: report_13)."
-  },
-  {
-    "text": "INFO: user_4 updated account settings (Report: report_5, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_91 exported a report (Report: report_38, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_45 encountered an error: Invalid input (Report: report_42)."
-  },
-  {
-    "text": "INFO: Data sync completed on Email Server."
-  },
-  {
-    "text": "ERROR: user_19 encountered an error: Email delivery failure (Report: report_21)."
-  },
-  {
-    "text": "INFO: System backup completed on Reporting Engine."
-  },
-  {
-    "text": "INFO: API request processed on Email Server."
-  },
-  {
-    "text": "ERROR: user_82 encountered an error: Data not found (Report: report_8)."
-  },
-  {
-    "text": "ERROR: user_58 encountered an error: Email delivery failure (Report: report_29)."
-  },
-  {
-    "text": "INFO: API request processed on Reporting Engine."
-  },
-  {
-    "text": "INFO: Data sync completed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_1 encountered an error: Email delivery failure (Report: report_41)."
-  },
-  {
-    "text": "INFO: user_93 deleted a report (Report: report_48, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_46 generated a report (Report: report_31, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_13 encountered an error: Unauthorized action (Report: report_7)."
-  },
-  {
-    "text": "INFO: user_42 updated account settings (Report: report_3, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_67 encountered an error: Invalid input (Report: report_7)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
+  {"text": "INFO: user_84 logged out (Report: report_19, Format: PDF)."},
+  {"text": "ERROR: user_3 encountered an error: Data not found (Report: report_43)."},
+  {"text": "ERROR: user_85 encountered an error: Data not found (Report: report_8)."},
+  {"text": "INFO: user_61 generated a report (Report: report_31, Format: Excel)."},
+  {"text": "INFO: API request processed on Reporting Engine."},
+  {"text": "ERROR: user_42 encountered an error: Unauthorized action (Report: report_13)."},
+  {"text": "INFO: user_4 updated account settings (Report: report_5, Format: PDF)."},
+  {"text": "INFO: user_91 exported a report (Report: report_38, Format: Excel)."},
+  {"text": "ERROR: user_45 encountered an error: Invalid input (Report: report_42)."},
+  {"text": "INFO: Data sync completed on Email Server."},
+  {"text": "ERROR: user_19 encountered an error: Email delivery failure (Report: report_21)."},
+  {"text": "INFO: System backup completed on Reporting Engine."},
+  {"text": "INFO: API request processed on Email Server."},
+  {"text": "ERROR: user_82 encountered an error: Data not found (Report: report_8)."},
+  {"text": "ERROR: user_58 encountered an error: Email delivery failure (Report: report_29)."},
+  {"text": "INFO: API request processed on Reporting Engine."},
+  {"text": "INFO: Data sync completed on Reporting Engine."},
+  {"text": "ERROR: user_1 encountered an error: Email delivery failure (Report: report_41)."},
+  {"text": "INFO: user_93 deleted a report (Report: report_48, Format: CSV)."},
+  {"text": "INFO: user_46 generated a report (Report: report_31, Format: CSV)."},
+  {"text": "ERROR: user_13 encountered an error: Unauthorized action (Report: report_7)."},
+  {"text": "INFO: user_42 updated account settings (Report: report_3, Format: CSV)."},
+  {"text": "ERROR: user_67 encountered an error: Invalid input (Report: report_7)."},
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
   { "text": "INFO: Report generated on CRM." },
-  {
-    "text": "ERROR: user_79 encountered an error: Invalid input (Report: report_8)."
-  },
-  {
-    "text": "ERROR: user_40 encountered an error: Permission denied (Report: report_36)."
-  },
-  {
-    "text": "ERROR: user_83 encountered an error: Invalid input (Report: report_50)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "INFO: user_68 changed password (Report: report_13, Format: PDF)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Database."
-  },
-  {
-    "text": "ERROR: user_24 encountered an error: Data not found (Report: report_25)."
-  },
-  {
-    "text": "ERROR: user_51 encountered an error: Unauthorized action (Report: report_2)."
-  },
-  {
-    "text": "INFO: Report generated on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_70 encountered an error: Email delivery failure (Report: report_8)."
-  },
-  {
-    "text": "INFO: System backup completed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_32 encountered an error: Data not found (Report: report_12)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Database."
-  },
-  {
-    "text": "ERROR: user_93 encountered an error: Unauthorized action (Report: report_42)."
-  },
-  {
-    "text": "INFO: user_68 updated account settings (Report: report_10, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_13 encountered an error: Data not found (Report: report_31)."
-  },
-  {
-    "text": "INFO: user_45 scheduled an email (Report: report_21, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_38 encountered an error: Database timeout (Report: report_1)."
-  },
-  {
-    "text": "ERROR: user_68 encountered an error: Data not found (Report: report_41)."
-  },
+  {"text": "ERROR: user_79 encountered an error: Invalid input (Report: report_8)."},
+  {"text": "ERROR: user_40 encountered an error: Permission denied (Report: report_36)."},
+  {"text": "ERROR: user_83 encountered an error: Invalid input (Report: report_50)."},
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "INFO: user_68 changed password (Report: report_13, Format: PDF)."},
+  {"text": "INFO: Maintenance window started on Database."},
+  {"text": "ERROR: user_24 encountered an error: Data not found (Report: report_25)."},
+  {"text": "ERROR: user_51 encountered an error: Unauthorized action (Report: report_2)."},
+  {"text": "INFO: Report generated on Reporting Engine."},
+  {"text": "ERROR: user_70 encountered an error: Email delivery failure (Report: report_8)."},
+  {"text": "INFO: System backup completed on Reporting Engine."},
+  {"text": "ERROR: user_32 encountered an error: Data not found (Report: report_12)."},
+  {"text": "INFO: Maintenance window started on Database."},
+  {"text": "ERROR: user_93 encountered an error: Unauthorized action (Report: report_42)."},
+  {"text": "INFO: user_68 updated account settings (Report: report_10, Format: Excel)."},
+  {"text": "ERROR: user_13 encountered an error: Data not found (Report: report_31)."},
+  {"text": "INFO: user_45 scheduled an email (Report: report_21, Format: PDF)."},
+  {"text": "ERROR: user_38 encountered an error: Database timeout (Report: report_1)."},
+  {"text": "ERROR: user_68 encountered an error: Data not found (Report: report_41)."},
   { "text": "INFO: Email sent on Email Server." },
-  {
-    "text": "INFO: user_95 updated account settings (Report: report_22, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_94 encountered an error: Invalid input (Report: report_9)."
-  },
-  {
-    "text": "ERROR: user_70 encountered an error: Database timeout (Report: report_13)."
-  },
+  {"text": "INFO: user_95 updated account settings (Report: report_22, Format: CSV)."},
+  {"text": "ERROR: user_94 encountered an error: Invalid input (Report: report_9)."},
+  {"text": "ERROR: user_70 encountered an error: Database timeout (Report: report_13)."},
   { "text": "INFO: Email sent on Email Server." },
-  {
-    "text": "INFO: user_19 logged in (Report: report_11, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_13 scheduled an email (Report: report_20, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_62 logged in (Report: report_27, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_32 encountered an error: Permission denied (Report: report_33)."
-  },
-  {
-    "text": "INFO: user_80 logged in (Report: report_36, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_33 logged in (Report: report_3, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_100 scheduled an email (Report: report_50, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_77 scheduled an email (Report: report_16, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_9 viewed dashboard (Report: report_23, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_47 logged out (Report: report_9, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_51 updated account settings (Report: report_15, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_38 encountered an error: Email delivery failure (Report: report_36)."
-  },
-  {
-    "text": "ERROR: user_34 encountered an error: Permission denied (Report: report_11)."
-  },
-  {
-    "text": "ERROR: user_78 encountered an error: Permission denied (Report: report_28)."
-  },
-  {
-    "text": "INFO: user_28 logged out (Report: report_38, Format: CSV)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Cache Service."
-  },
-  {
-    "text": "INFO: System backup completed on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_80 logged in (Report: report_43, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_53 encountered an error: Data not found (Report: report_47)."
-  },
-  {
-    "text": "ERROR: user_91 encountered an error: Unauthorized action (Report: report_26)."
-  },
+  {"text": "INFO: user_19 logged in (Report: report_11, Format: Excel)."},
+  {"text": "INFO: user_13 scheduled an email (Report: report_20, Format: Excel)."},
+  {"text": "INFO: user_62 logged in (Report: report_27, Format: PDF)."},
+  {"text": "ERROR: user_32 encountered an error: Permission denied (Report: report_33)."},
+  {"text": "INFO: user_80 logged in (Report: report_36, Format: CSV)."},
+  {"text": "INFO: user_33 logged in (Report: report_3, Format: Excel)."},
+  {"text": "INFO: user_100 scheduled an email (Report: report_50, Format: PDF)."},
+  {"text": "INFO: user_77 scheduled an email (Report: report_16, Format: PDF)."},
+  {"text": "INFO: user_9 viewed dashboard (Report: report_23, Format: PDF)."},
+  {"text": "INFO: user_47 logged out (Report: report_9, Format: Excel)."},
+  {"text": "INFO: user_51 updated account settings (Report: report_15, Format: PDF)."},
+  {"text": "ERROR: user_38 encountered an error: Email delivery failure (Report: report_36)."},
+  {"text": "ERROR: user_34 encountered an error: Permission denied (Report: report_11)."},
+  {"text": "ERROR: user_78 encountered an error: Permission denied (Report: report_28)."},
+  {"text": "INFO: user_28 logged out (Report: report_38, Format: CSV)."},
+  {"text": "INFO: Scheduled task executed on Cache Service."},
+  {"text": "INFO: System backup completed on Reporting Engine."},
+  {"text": "INFO: user_80 logged in (Report: report_43, Format: CSV)."},
+  {"text": "ERROR: user_53 encountered an error: Data not found (Report: report_47)."},
+  {"text": "ERROR: user_91 encountered an error: Unauthorized action (Report: report_26)."},
   { "text": "INFO: Report generated on Email Server." },
   { "text": "INFO: API request processed on CRM." },
-  {
-    "text": "INFO: user_53 scheduled an email (Report: report_34, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_98 encountered an error: Permission denied (Report: report_29)."
-  },
-  {
-    "text": "ERROR: user_42 encountered an error: Permission denied (Report: report_12)."
-  },
-  {
-    "text": "INFO: user_4 logged in (Report: report_31, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_17 encountered an error: Permission denied (Report: report_48)."
-  },
+  {"text": "INFO: user_53 scheduled an email (Report: report_34, Format: CSV)."},
+  {"text": "ERROR: user_98 encountered an error: Permission denied (Report: report_29)."},
+  {"text": "ERROR: user_42 encountered an error: Permission denied (Report: report_12)."},
+  {"text": "INFO: user_4 logged in (Report: report_31, Format: CSV)."},
+  {"text": "ERROR: user_17 encountered an error: Permission denied (Report: report_48)."},
   { "text": "INFO: Cache cleared on Database." },
   { "text": "INFO: Scheduled task executed on CRM." },
-  {
-    "text": "INFO: user_50 exported a report (Report: report_17, Format: Excel)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_59 encountered an error: Email delivery failure (Report: report_33)."
-  },
-  {
-    "text": "INFO: user_91 viewed dashboard (Report: report_7, Format: Excel)."
-  },
+  {"text": "INFO: user_50 exported a report (Report: report_17, Format: Excel)."},
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
+  {"text": "ERROR: user_59 encountered an error: Email delivery failure (Report: report_33)."},
+  {"text": "INFO: user_91 viewed dashboard (Report: report_7, Format: Excel)."},
   { "text": "INFO: Report generated on CRM." },
-  {
-    "text": "ERROR: user_31 encountered an error: Email delivery failure (Report: report_45)."
-  },
-  {
-    "text": "ERROR: user_95 encountered an error: Permission denied (Report: report_40)."
-  },
-  {
-    "text": "INFO: user_78 exported a report (Report: report_49, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_29 scheduled an email (Report: report_48, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_74 encountered an error: Permission denied (Report: report_42)."
-  },
-  {
-    "text": "ERROR: user_15 encountered an error: Unauthorized action (Report: report_8)."
-  },
-  {
-    "text": "INFO: user_38 exported a report (Report: report_41, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_25 encountered an error: Database timeout (Report: report_12)."
-  },
-  {
-    "text": "INFO: user_12 logged out (Report: report_42, Format: PDF)."
-  },
+  {"text": "ERROR: user_31 encountered an error: Email delivery failure (Report: report_45)."},
+  {"text": "ERROR: user_95 encountered an error: Permission denied (Report: report_40)."},
+  {"text": "INFO: user_78 exported a report (Report: report_49, Format: CSV)."},
+  {"text": "INFO: user_29 scheduled an email (Report: report_48, Format: CSV)."},
+  {"text": "ERROR: user_74 encountered an error: Permission denied (Report: report_42)."},
+  {"text": "ERROR: user_15 encountered an error: Unauthorized action (Report: report_8)."},
+  {"text": "INFO: user_38 exported a report (Report: report_41, Format: PDF)."},
+  {"text": "ERROR: user_25 encountered an error: Database timeout (Report: report_12)."},
+  {"text": "INFO: user_12 logged out (Report: report_42, Format: PDF)."},
   { "text": "INFO: API request processed on Database." },
-  {
-    "text": "INFO: user_83 logged out (Report: report_50, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_74 encountered an error: Unauthorized action (Report: report_36)."
-  },
+  {"text": "INFO: user_83 logged out (Report: report_50, Format: CSV)."},
+  {"text": "ERROR: user_74 encountered an error: Unauthorized action (Report: report_36)."},
   { "text": "INFO: System backup completed on CRM." },
-  {
-    "text": "ERROR: user_90 encountered an error: Permission denied (Report: report_13)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Cache Service."
-  },
-  {
-    "text": "INFO: user_35 logged out (Report: report_42, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_18 deleted a report (Report: report_20, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_98 encountered an error: Unauthorized action (Report: report_49)."
-  },
-  {
-    "text": "INFO: user_53 scheduled an email (Report: report_39, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_85 deleted a report (Report: report_50, Format: PDF)."
-  },
+  {"text": "ERROR: user_90 encountered an error: Permission denied (Report: report_13)."},
+  {"text": "INFO: Scheduled task executed on Cache Service."},
+  {"text": "INFO: user_35 logged out (Report: report_42, Format: Excel)."},
+  {"text": "INFO: user_18 deleted a report (Report: report_20, Format: CSV)."},
+  {"text": "ERROR: user_98 encountered an error: Unauthorized action (Report: report_49)."},
+  {"text": "INFO: user_53 scheduled an email (Report: report_39, Format: PDF)."},
+  {"text": "INFO: user_85 deleted a report (Report: report_50, Format: PDF)."},
   { "text": "INFO: Cache cleared on Database." },
   { "text": "INFO: Scheduled task executed on CRM." },
-  {
-    "text": "INFO: user_1 logged out (Report: report_12, Format: CSV)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_59 encountered an error: Database timeout (Report: report_43)."
-  },
+  {"text": "INFO: user_1 logged out (Report: report_12, Format: CSV)."},
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
+  {"text": "ERROR: user_59 encountered an error: Database timeout (Report: report_43)."},
   { "text": "INFO: Email sent on Database." },
-  {
-    "text": "INFO: user_57 deleted a report (Report: report_25, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_12 encountered an error: Data not found (Report: report_37)."
-  },
-  {
-    "text": "INFO: System backup completed on Cache Service."
-  },
-  {
-    "text": "ERROR: user_14 encountered an error: Permission denied (Report: report_48)."
-  },
+  {"text": "INFO: user_57 deleted a report (Report: report_25, Format: Excel)."},
+  {"text": "ERROR: user_12 encountered an error: Data not found (Report: report_37)."},
+  {"text": "INFO: System backup completed on Cache Service."},
+  {"text": "ERROR: user_14 encountered an error: Permission denied (Report: report_48)."},
   { "text": "INFO: Cache cleared on Email Server." },
-  {
-    "text": "ERROR: user_73 encountered an error: Database timeout (Report: report_32)."
-  },
-  {
-    "text": "ERROR: user_6 encountered an error: Database timeout (Report: report_21)."
-  },
-  {
-    "text": "INFO: user_29 viewed dashboard (Report: report_23, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_100 deleted a report (Report: report_13, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_72 exported a report (Report: report_41, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_23 encountered an error: Email delivery failure (Report: report_30)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
+  {"text": "ERROR: user_73 encountered an error: Database timeout (Report: report_32)."},
+  {"text": "ERROR: user_6 encountered an error: Database timeout (Report: report_21)."},
+  {"text": "INFO: user_29 viewed dashboard (Report: report_23, Format: PDF)."},
+  {"text": "INFO: user_100 deleted a report (Report: report_13, Format: Excel)."},
+  {"text": "INFO: user_72 exported a report (Report: report_41, Format: CSV)."},
+  {"text": "ERROR: user_23 encountered an error: Email delivery failure (Report: report_30)."},
+  {"text": "INFO: Scheduled task executed on Email Server."},
   { "text": "INFO: Cache cleared on CRM." },
-  {
-    "text": "INFO: System backup completed on Cache Service."
-  },
-  {
-    "text": "INFO: user_100 generated a report (Report: report_42, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_36 encountered an error: Unauthorized action (Report: report_18)."
-  },
+  {"text": "INFO: System backup completed on Cache Service."},
+  {"text": "INFO: user_100 generated a report (Report: report_42, Format: CSV)."},
+  {"text": "ERROR: user_36 encountered an error: Unauthorized action (Report: report_18)."},
   { "text": "INFO: Email sent on Database." },
-  {
-    "text": "INFO: user_10 logged in (Report: report_42, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_72 scheduled an email (Report: report_49, Format: Excel)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Reporting Engine."
-  },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "INFO: user_20 updated account settings (Report: report_41, Format: PDF)."
-  },
+  {"text": "INFO: user_10 logged in (Report: report_42, Format: PDF)."},
+  {"text": "INFO: user_72 scheduled an email (Report: report_49, Format: Excel)."},
+  {"text": "INFO: Scheduled task executed on Reporting Engine."},
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "INFO: user_20 updated account settings (Report: report_41, Format: PDF)."},
   { "text": "INFO: Cache cleared on Cache Service." },
-  {
-    "text": "INFO: user_11 generated a report (Report: report_32, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_92 updated account settings (Report: report_10, Format: Excel)."
-  },
-  {
-    "text": "INFO: Data sync completed on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_48 logged out (Report: report_10, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_92 exported a report (Report: report_44, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_51 encountered an error: Email delivery failure (Report: report_11)."
-  },
-  {
-    "text": "INFO: user_48 deleted a report (Report: report_16, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_2 encountered an error: Invalid input (Report: report_45)."
-  },
-  {
-    "text": "INFO: user_78 viewed dashboard (Report: report_42, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_89 encountered an error: Email delivery failure (Report: report_4)."
-  },
+  {"text": "INFO: user_11 generated a report (Report: report_32, Format: Excel)."},
+  {"text": "INFO: user_92 updated account settings (Report: report_10, Format: Excel)."},
+  {"text": "INFO: Data sync completed on Reporting Engine."},
+  {"text": "INFO: user_48 logged out (Report: report_10, Format: Excel)."},
+  {"text": "INFO: user_92 exported a report (Report: report_44, Format: Excel)."},
+  {"text": "ERROR: user_51 encountered an error: Email delivery failure (Report: report_11)."},
+  {"text": "INFO: user_48 deleted a report (Report: report_16, Format: Excel)."},
+  {"text": "ERROR: user_2 encountered an error: Invalid input (Report: report_45)."},
+  {"text": "INFO: user_78 viewed dashboard (Report: report_42, Format: PDF)."},
+  {"text": "ERROR: user_89 encountered an error: Email delivery failure (Report: report_4)."},
   { "text": "INFO: Email sent on Email Server." },
-  {
-    "text": "INFO: System backup completed on Reporting Engine."
-  },
+  {"text": "INFO: System backup completed on Reporting Engine."},
   { "text": "INFO: Maintenance window started on CRM." },
-  {
-    "text": "INFO: user_100 viewed dashboard (Report: report_20, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_33 scheduled an email (Report: report_6, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_21 encountered an error: Email delivery failure (Report: report_42)."
-  },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
-  {
-    "text": "ERROR: user_75 encountered an error: Database timeout (Report: report_2)."
-  },
-  {
-    "text": "INFO: user_84 viewed dashboard (Report: report_37, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_6 logged out (Report: report_15, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_60 deleted a report (Report: report_12, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_64 changed password (Report: report_32, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_13 encountered an error: Permission denied (Report: report_31)."
-  },
-  {
-    "text": "INFO: user_13 generated a report (Report: report_1, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_35 logged in (Report: report_21, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_87 encountered an error: Invalid input (Report: report_11)."
-  },
-  {
-    "text": "INFO: user_14 scheduled an email (Report: report_8, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_13 encountered an error: Data not found (Report: report_12)."
-  },
+  {"text": "INFO: user_100 viewed dashboard (Report: report_20, Format: CSV)."},
+  {"text": "INFO: user_33 scheduled an email (Report: report_6, Format: Excel)."},
+  {"text": "ERROR: user_21 encountered an error: Email delivery failure (Report: report_42)."},
+  {"text": "INFO: System backup completed on Database."},
+  {"text": "ERROR: user_75 encountered an error: Database timeout (Report: report_2)."},
+  {"text": "INFO: user_84 viewed dashboard (Report: report_37, Format: CSV)."},
+  {"text": "INFO: user_6 logged out (Report: report_15, Format: PDF)."},
+  {"text": "INFO: user_60 deleted a report (Report: report_12, Format: CSV)."},
+  {"text": "INFO: user_64 changed password (Report: report_32, Format: PDF)."},
+  {"text": "ERROR: user_13 encountered an error: Permission denied (Report: report_31)."},
+  {"text": "INFO: user_13 generated a report (Report: report_1, Format: CSV)."},
+  {"text": "INFO: user_35 logged in (Report: report_21, Format: CSV)."},
+  {"text": "ERROR: user_87 encountered an error: Invalid input (Report: report_11)."},
+  {"text": "INFO: user_14 scheduled an email (Report: report_8, Format: PDF)."},
+  {"text": "ERROR: user_13 encountered an error: Data not found (Report: report_12)."},
   { "text": "INFO: Email sent on Cache Service." },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
-  {
-    "text": "INFO: user_4 changed password (Report: report_39, Format: PDF)."
-  },
+  {"text": "INFO: Scheduled task executed on Email Server."},
+  {"text": "INFO: user_4 changed password (Report: report_39, Format: PDF)."},
   { "text": "INFO: Report generated on CRM." },
-  {
-    "text": "ERROR: user_51 encountered an error: Database timeout (Report: report_36)."
-  },
-  {
-    "text": "ERROR: user_25 encountered an error: Invalid input (Report: report_45)."
-  },
+  {"text": "ERROR: user_51 encountered an error: Database timeout (Report: report_36)."},
+  {"text": "ERROR: user_25 encountered an error: Invalid input (Report: report_45)."},
   { "text": "INFO: Email sent on Reporting Engine." },
-  {
-    "text": "INFO: user_51 changed password (Report: report_36, Format: PDF)."
-  },
+  {"text": "INFO: user_51 changed password (Report: report_36, Format: PDF)."},
   { "text": "INFO: Report generated on CRM." },
-  {
-    "text": "ERROR: user_68 encountered an error: Email delivery failure (Report: report_45)."
-  },
-  {
-    "text": "INFO: user_46 exported a report (Report: report_5, Format: CSV)."
-  },
+  {"text": "ERROR: user_68 encountered an error: Email delivery failure (Report: report_45)."},
+  {"text": "INFO: user_46 exported a report (Report: report_5, Format: CSV)."},
   { "text": "INFO: Email sent on Database." },
-  {
-    "text": "ERROR: user_97 encountered an error: Data not found (Report: report_4)."
-  },
-  {
-    "text": "INFO: user_26 generated a report (Report: report_36, Format: PDF)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Cache Service."
-  },
-  {
-    "text": "INFO: user_8 exported a report (Report: report_32, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_72 updated account settings (Report: report_34, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_83 encountered an error: Invalid input (Report: report_45)."
-  },
-  {
-    "text": "INFO: System backup completed on Email Server."
-  },
+  {"text": "ERROR: user_97 encountered an error: Data not found (Report: report_4)."},
+  {"text": "INFO: user_26 generated a report (Report: report_36, Format: PDF)."},
+  {"text": "INFO: Scheduled task executed on Cache Service."},
+  {"text": "INFO: user_8 exported a report (Report: report_32, Format: CSV)."},
+  {"text": "INFO: user_72 updated account settings (Report: report_34, Format: PDF)."},
+  {"text": "ERROR: user_83 encountered an error: Invalid input (Report: report_45)."},
+  {"text": "INFO: System backup completed on Email Server."},
   { "text": "INFO: Cache cleared on CRM." },
-  {
-    "text": "ERROR: user_100 encountered an error: Unauthorized action (Report: report_36)."
-  },
+  {"text": "ERROR: user_100 encountered an error: Unauthorized action (Report: report_36)."},
   { "text": "INFO: Data sync completed on CRM." },
-  {
-    "text": "ERROR: user_47 encountered an error: Email delivery failure (Report: report_9)."
-  },
-  {
-    "text": "INFO: user_58 exported a report (Report: report_18, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_78 encountered an error: Invalid input (Report: report_19)."
-  },
-  {
-    "text": "ERROR: user_15 encountered an error: Database timeout (Report: report_7)."
-  },
-  {
-    "text": "ERROR: user_1 encountered an error: Email delivery failure (Report: report_20)."
-  },
-  {
-    "text": "ERROR: user_55 encountered an error: Data not found (Report: report_5)."
-  },
+  {"text": "ERROR: user_47 encountered an error: Email delivery failure (Report: report_9)."},
+  {"text": "INFO: user_58 exported a report (Report: report_18, Format: PDF)."},
+  {"text": "ERROR: user_78 encountered an error: Invalid input (Report: report_19)."},
+  {"text": "ERROR: user_15 encountered an error: Database timeout (Report: report_7)."},
+  {"text": "ERROR: user_1 encountered an error: Email delivery failure (Report: report_20)."},
+  {"text": "ERROR: user_55 encountered an error: Data not found (Report: report_5)."},
   { "text": "INFO: API request processed on Database." },
-  {
-    "text": "ERROR: user_17 encountered an error: Email delivery failure (Report: report_27)."
-  },
-  {
-    "text": "ERROR: user_30 encountered an error: Invalid input (Report: report_16)."
-  },
+  {"text": "ERROR: user_17 encountered an error: Email delivery failure (Report: report_27)."},
+  {"text": "ERROR: user_30 encountered an error: Invalid input (Report: report_16)."},
   { "text": "INFO: Cache cleared on Cache Service." },
-  {
-    "text": "ERROR: user_21 encountered an error: Data not found (Report: report_29)."
-  },
-  {
-    "text": "INFO: System backup completed on Cache Service."
-  },
+  {"text": "ERROR: user_21 encountered an error: Data not found (Report: report_29)."},
+  {"text": "INFO: System backup completed on Cache Service."},
   { "text": "INFO: Email sent on Email Server." },
-  {
-    "text": "INFO: user_77 logged out (Report: report_48, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_82 encountered an error: Unauthorized action (Report: report_32)."
-  },
-  {
-    "text": "ERROR: user_41 encountered an error: Permission denied (Report: report_47)."
-  },
-  {
-    "text": "INFO: user_32 generated a report (Report: report_18, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_80 scheduled an email (Report: report_18, Format: Excel)."
-  },
+  {"text": "INFO: user_77 logged out (Report: report_48, Format: CSV)."},
+  {"text": "ERROR: user_82 encountered an error: Unauthorized action (Report: report_32)."},
+  {"text": "ERROR: user_41 encountered an error: Permission denied (Report: report_47)."},
+  {"text": "INFO: user_32 generated a report (Report: report_18, Format: CSV)."},
+  {"text": "INFO: user_80 scheduled an email (Report: report_18, Format: Excel)."},
   { "text": "INFO: Email sent on Cache Service." },
-  {
-    "text": "INFO: user_73 scheduled an email (Report: report_18, Format: PDF)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
-  {
-    "text": "INFO: Data sync completed on Email Server."
-  },
-  {
-    "text": "ERROR: user_56 encountered an error: Data not found (Report: report_16)."
-  },
-  {
-    "text": "INFO: user_39 updated account settings (Report: report_4, Format: CSV)."
-  },
-  {
-    "text": "INFO: Data sync completed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_88 encountered an error: Email delivery failure (Report: report_46)."
-  },
-  {
-    "text": "INFO: user_36 exported a report (Report: report_33, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_14 exported a report (Report: report_37, Format: CSV)."
-  },
+  {"text": "INFO: user_73 scheduled an email (Report: report_18, Format: PDF)."},
+  {"text": "INFO: Scheduled task executed on Email Server."},
+  {"text": "INFO: Data sync completed on Email Server."},
+  {"text": "ERROR: user_56 encountered an error: Data not found (Report: report_16)."},
+  {"text": "INFO: user_39 updated account settings (Report: report_4, Format: CSV)."},
+  {"text": "INFO: Data sync completed on Reporting Engine."},
+  {"text": "ERROR: user_88 encountered an error: Email delivery failure (Report: report_46)."},
+  {"text": "INFO: user_36 exported a report (Report: report_33, Format: Excel)."},
+  {"text": "INFO: user_14 exported a report (Report: report_37, Format: CSV)."},
   { "text": "INFO: Maintenance window started on CRM." },
-  {
-    "text": "INFO: Report generated on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_35 encountered an error: Invalid input (Report: report_17)."
-  },
-  {
-    "text": "ERROR: user_45 encountered an error: Unauthorized action (Report: report_9)."
-  },
-  {
-    "text": "INFO: user_79 logged in (Report: report_2, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_64 logged in (Report: report_44, Format: Excel)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Cache Service."
-  },
+  {"text": "INFO: Report generated on Reporting Engine."},
+  {"text": "ERROR: user_35 encountered an error: Invalid input (Report: report_17)."},
+  {"text": "ERROR: user_45 encountered an error: Unauthorized action (Report: report_9)."},
+  {"text": "INFO: user_79 logged in (Report: report_2, Format: CSV)."},
+  {"text": "INFO: user_64 logged in (Report: report_44, Format: Excel)."},
+  {"text": "INFO: Scheduled task executed on Cache Service."},
   { "text": "INFO: Email sent on Email Server." },
-  {
-    "text": "ERROR: user_68 encountered an error: Permission denied (Report: report_37)."
-  },
+  {"text": "ERROR: user_68 encountered an error: Permission denied (Report: report_37)."},
   { "text": "INFO: Email sent on Database." },
-  {
-    "text": "INFO: user_65 deleted a report (Report: report_5, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_96 encountered an error: Database timeout (Report: report_18)."
-  },
-  {
-    "text": "ERROR: user_60 encountered an error: Email delivery failure (Report: report_45)."
-  },
+  {"text": "INFO: user_65 deleted a report (Report: report_5, Format: Excel)."},
+  {"text": "ERROR: user_96 encountered an error: Database timeout (Report: report_18)."},
+  {"text": "ERROR: user_60 encountered an error: Email delivery failure (Report: report_45)."},
   { "text": "INFO: Email sent on CRM." },
-  {
-    "text": "ERROR: user_98 encountered an error: Email delivery failure (Report: report_46)."
-  },
-  {
-    "text": "ERROR: user_48 encountered an error: Database timeout (Report: report_7)."
-  },
-  {
-    "text": "INFO: user_33 viewed dashboard (Report: report_12, Format: PDF)."
-  },
+  {"text": "ERROR: user_98 encountered an error: Email delivery failure (Report: report_46)."},
+  {"text": "ERROR: user_48 encountered an error: Database timeout (Report: report_7)."},
+  {"text": "INFO: user_33 viewed dashboard (Report: report_12, Format: PDF)."},
   { "text": "INFO: Email sent on Email Server." },
-  {
-    "text": "ERROR: user_39 encountered an error: Database timeout (Report: report_40)."
-  },
+  {"text": "ERROR: user_39 encountered an error: Database timeout (Report: report_40)."},
   { "text": "INFO: Report generated on CRM." },
-  {
-    "text": "INFO: user_35 logged out (Report: report_42, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_65 encountered an error: Unauthorized action (Report: report_22)."
-  },
-  {
-    "text": "ERROR: user_76 encountered an error: Data not found (Report: report_17)."
-  },
+  {"text": "INFO: user_35 logged out (Report: report_42, Format: PDF)."},
+  {"text": "ERROR: user_65 encountered an error: Unauthorized action (Report: report_22)."},
+  {"text": "ERROR: user_76 encountered an error: Data not found (Report: report_17)."},
   { "text": "INFO: Report generated on Cache Service." },
-  {
-    "text": "ERROR: user_88 encountered an error: Invalid input (Report: report_28)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "INFO: user_46 deleted a report (Report: report_14, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_55 encountered an error: Unauthorized action (Report: report_21)."
-  },
-  {
-    "text": "INFO: user_72 viewed dashboard (Report: report_39, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_7 exported a report (Report: report_37, Format: PDF)."
-  },
+  {"text": "ERROR: user_88 encountered an error: Invalid input (Report: report_28)."},
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "INFO: user_46 deleted a report (Report: report_14, Format: Excel)."},
+  {"text": "ERROR: user_55 encountered an error: Unauthorized action (Report: report_21)."},
+  {"text": "INFO: user_72 viewed dashboard (Report: report_39, Format: Excel)."},
+  {"text": "INFO: user_7 exported a report (Report: report_37, Format: PDF)."},
   { "text": "INFO: Report generated on Email Server." },
-  {
-    "text": "ERROR: user_35 encountered an error: Permission denied (Report: report_13)."
-  },
-  {
-    "text": "ERROR: user_21 encountered an error: Invalid input (Report: report_2)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "INFO: user_11 generated a report (Report: report_15, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_15 encountered an error: Permission denied (Report: report_37)."
-  },
-  {
-    "text": "INFO: System backup completed on Email Server."
-  },
-  {
-    "text": "INFO: user_6 logged out (Report: report_42, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_37 encountered an error: Permission denied (Report: report_5)."
-  },
-  {
-    "text": "INFO: System backup completed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_63 encountered an error: Unauthorized action (Report: report_14)."
-  },
-  {
-    "text": "INFO: user_84 exported a report (Report: report_11, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_2 logged out (Report: report_2, Format: PDF)."
-  },
+  {"text": "ERROR: user_35 encountered an error: Permission denied (Report: report_13)."},
+  {"text": "ERROR: user_21 encountered an error: Invalid input (Report: report_2)."},
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "INFO: user_11 generated a report (Report: report_15, Format: Excel)."},
+  {"text": "ERROR: user_15 encountered an error: Permission denied (Report: report_37)."},
+  {"text": "INFO: System backup completed on Email Server."},
+  {"text": "INFO: user_6 logged out (Report: report_42, Format: CSV)."},
+  {"text": "ERROR: user_37 encountered an error: Permission denied (Report: report_5)."},
+  {"text": "INFO: System backup completed on Reporting Engine."},
+  {"text": "ERROR: user_63 encountered an error: Unauthorized action (Report: report_14)."},
+  {"text": "INFO: user_84 exported a report (Report: report_11, Format: Excel)."},
+  {"text": "INFO: user_2 logged out (Report: report_2, Format: PDF)."},
   { "text": "INFO: Cache cleared on CRM." },
-  {
-    "text": "ERROR: user_59 encountered an error: Database timeout (Report: report_50)."
-  },
-  {
-    "text": "INFO: user_6 changed password (Report: report_4, Format: PDF)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Cache Service."
-  },
-  {
-    "text": "INFO: Maintenance window started on Database."
-  },
-  {
-    "text": "INFO: user_36 changed password (Report: report_25, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_5 encountered an error: Email delivery failure (Report: report_34)."
-  },
-  {
-    "text": "INFO: API request processed on Email Server."
-  },
-  {
-    "text": "ERROR: user_3 encountered an error: Permission denied (Report: report_16)."
-  },
-  {
-    "text": "INFO: user_85 generated a report (Report: report_18, Format: Excel)."
-  },
+  {"text": "ERROR: user_59 encountered an error: Database timeout (Report: report_50)."},
+  {"text": "INFO: user_6 changed password (Report: report_4, Format: PDF)."},
+  {"text": "INFO: Maintenance window started on Cache Service."},
+  {"text": "INFO: Maintenance window started on Database."},
+  {"text": "INFO: user_36 changed password (Report: report_25, Format: Excel)."},
+  {"text": "ERROR: user_5 encountered an error: Email delivery failure (Report: report_34)."},
+  {"text": "INFO: API request processed on Email Server."},
+  {"text": "ERROR: user_3 encountered an error: Permission denied (Report: report_16)."},
+  {"text": "INFO: user_85 generated a report (Report: report_18, Format: Excel)."},
   { "text": "INFO: Maintenance window started on CRM." },
-  {
-    "text": "INFO: user_76 updated account settings (Report: report_1, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_74 logged out (Report: report_32, Format: Excel)."
-  },
+  {"text": "INFO: user_76 updated account settings (Report: report_1, Format: CSV)."},
+  {"text": "INFO: user_74 logged out (Report: report_32, Format: Excel)."},
   { "text": "INFO: Data sync completed on CRM." },
-  {
-    "text": "INFO: Report generated on Reporting Engine."
-  },
+  {"text": "INFO: Report generated on Reporting Engine."},
   { "text": "INFO: Report generated on Cache Service." },
   { "text": "INFO: Email sent on Email Server." },
   { "text": "INFO: Email sent on Reporting Engine." },
   { "text": "INFO: Data sync completed on CRM." },
-  {
-    "text": "ERROR: user_62 encountered an error: Invalid input (Report: report_46)."
-  },
-  {
-    "text": "ERROR: user_77 encountered an error: Unauthorized action (Report: report_43)."
-  },
-  {
-    "text": "ERROR: user_67 encountered an error: Unauthorized action (Report: report_30)."
-  },
-  {
-    "text": "INFO: user_6 logged out (Report: report_47, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_12 viewed dashboard (Report: report_19, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_66 encountered an error: Data not found (Report: report_35)."
-  },
-  {
-    "text": "ERROR: user_74 encountered an error: Invalid input (Report: report_17)."
-  },
-  {
-    "text": "INFO: user_44 exported a report (Report: report_34, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_6 encountered an error: Unauthorized action (Report: report_28)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_19 encountered an error: Data not found (Report: report_33)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_47 encountered an error: Data not found (Report: report_48)."
-  },
-  {
-    "text": "INFO: user_83 logged out (Report: report_39, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_32 encountered an error: Database timeout (Report: report_24)."
-  },
-  {
-    "text": "INFO: user_95 scheduled an email (Report: report_19, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_62 generated a report (Report: report_11, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_28 logged in (Report: report_48, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_23 deleted a report (Report: report_43, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_53 generated a report (Report: report_10, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_19 encountered an error: Data not found (Report: report_28)."
-  },
-  {
-    "text": "INFO: user_55 scheduled an email (Report: report_46, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_57 logged in (Report: report_40, Format: Excel)."
-  },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
-  {
-    "text": "ERROR: user_49 encountered an error: Invalid input (Report: report_43)."
-  },
-  {
-    "text": "ERROR: user_35 encountered an error: Email delivery failure (Report: report_23)."
-  },
-  {
-    "text": "INFO: user_15 generated a report (Report: report_15, Format: CSV)."
-  },
+  {"text": "ERROR: user_62 encountered an error: Invalid input (Report: report_46)."},
+  {"text": "ERROR: user_77 encountered an error: Unauthorized action (Report: report_43)."},
+  {"text": "ERROR: user_67 encountered an error: Unauthorized action (Report: report_30)."},
+  {"text": "INFO: user_6 logged out (Report: report_47, Format: Excel)."},
+  {"text": "INFO: user_12 viewed dashboard (Report: report_19, Format: CSV)."},
+  {"text": "ERROR: user_66 encountered an error: Data not found (Report: report_35)."},
+  {"text": "ERROR: user_74 encountered an error: Invalid input (Report: report_17)."},
+  {"text": "INFO: user_44 exported a report (Report: report_34, Format: PDF)."},
+  {"text": "ERROR: user_6 encountered an error: Unauthorized action (Report: report_28)."},
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
+  {"text": "ERROR: user_19 encountered an error: Data not found (Report: report_33)."},
+  {"text": "INFO: Scheduled task executed on Reporting Engine."},
+  {"text": "ERROR: user_47 encountered an error: Data not found (Report: report_48)."},
+  {"text": "INFO: user_83 logged out (Report: report_39, Format: Excel)."},
+  {"text": "ERROR: user_32 encountered an error: Database timeout (Report: report_24)."},
+  {"text": "INFO: user_95 scheduled an email (Report: report_19, Format: PDF)."},
+  {"text": "INFO: user_62 generated a report (Report: report_11, Format: CSV)."},
+  {"text": "INFO: user_28 logged in (Report: report_48, Format: CSV)."},
+  {"text": "INFO: user_23 deleted a report (Report: report_43, Format: CSV)."},
+  {"text": "INFO: user_53 generated a report (Report: report_10, Format: CSV)."},
+  {"text": "ERROR: user_19 encountered an error: Data not found (Report: report_28)."},
+  {"text": "INFO: user_55 scheduled an email (Report: report_46, Format: CSV)."},
+  {"text": "INFO: user_57 logged in (Report: report_40, Format: Excel)."},
+  {"text": "INFO: System backup completed on Database."},
+  {"text": "ERROR: user_49 encountered an error: Invalid input (Report: report_43)."},
+  {"text": "ERROR: user_35 encountered an error: Email delivery failure (Report: report_23)."},
+  {"text": "INFO: user_15 generated a report (Report: report_15, Format: CSV)."},
   { "text": "INFO: Email sent on Cache Service." },
-  {
-    "text": "ERROR: user_95 encountered an error: Permission denied (Report: report_4)."
-  },
+  {"text": "ERROR: user_95 encountered an error: Permission denied (Report: report_4)."},
   { "text": "INFO: Email sent on Cache Service." },
-  {
-    "text": "ERROR: user_98 encountered an error: Permission denied (Report: report_40)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
-  {
-    "text": "ERROR: user_64 encountered an error: Permission denied (Report: report_29)."
-  },
-  {
-    "text": "INFO: user_3 deleted a report (Report: report_20, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_38 viewed dashboard (Report: report_48, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_20 deleted a report (Report: report_12, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_34 encountered an error: Database timeout (Report: report_40)."
-  },
-  {
-    "text": "ERROR: user_66 encountered an error: Database timeout (Report: report_11)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Database."
-  },
-  {
-    "text": "INFO: API request processed on Email Server."
-  },
-  {
-    "text": "INFO: user_47 exported a report (Report: report_35, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_29 changed password (Report: report_35, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_3 logged out (Report: report_28, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_20 encountered an error: Email delivery failure (Report: report_50)."
-  },
+  {"text": "ERROR: user_98 encountered an error: Permission denied (Report: report_40)."},
+  {"text": "INFO: Scheduled task executed on Email Server."},
+  {"text": "ERROR: user_64 encountered an error: Permission denied (Report: report_29)."},
+  {"text": "INFO: user_3 deleted a report (Report: report_20, Format: PDF)."},
+  {"text": "INFO: user_38 viewed dashboard (Report: report_48, Format: PDF)."},
+  {"text": "INFO: user_20 deleted a report (Report: report_12, Format: CSV)."},
+  {"text": "ERROR: user_34 encountered an error: Database timeout (Report: report_40)."},
+  {"text": "ERROR: user_66 encountered an error: Database timeout (Report: report_11)."},
+  {"text": "INFO: Scheduled task executed on Database."},
+  {"text": "INFO: API request processed on Email Server."},
+  {"text": "INFO: user_47 exported a report (Report: report_35, Format: PDF)."},
+  {"text": "INFO: user_29 changed password (Report: report_35, Format: PDF)."},
+  {"text": "INFO: user_3 logged out (Report: report_28, Format: Excel)."},
+  {"text": "ERROR: user_20 encountered an error: Email delivery failure (Report: report_50)."},
   { "text": "INFO: Cache cleared on Cache Service." },
-  {
-    "text": "ERROR: user_84 encountered an error: Data not found (Report: report_36)."
-  },
-  {
-    "text": "INFO: user_77 logged out (Report: report_37, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_9 logged out (Report: report_35, Format: PDF)."
-  },
+  {"text": "ERROR: user_84 encountered an error: Data not found (Report: report_36)."},
+  {"text": "INFO: user_77 logged out (Report: report_37, Format: PDF)."},
+  {"text": "INFO: user_9 logged out (Report: report_35, Format: PDF)."},
   { "text": "INFO: Data sync completed on Database." },
-  {
-    "text": "INFO: Scheduled task executed on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_26 generated a report (Report: report_14, Format: CSV)."
-  },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
-  {
-    "text": "ERROR: user_78 encountered an error: Email delivery failure (Report: report_3)."
-  },
-  {
-    "text": "ERROR: user_52 encountered an error: Email delivery failure (Report: report_2)."
-  },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
-  {
-    "text": "INFO: user_89 updated account settings (Report: report_26, Format: PDF)."
-  },
-  {
-    "text": "INFO: Data sync completed on Cache Service."
-  },
-  {
-    "text": "INFO: user_14 generated a report (Report: report_42, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_4 deleted a report (Report: report_45, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_28 encountered an error: Database timeout (Report: report_43)."
-  },
+  {"text": "INFO: Scheduled task executed on Reporting Engine."},
+  {"text": "INFO: user_26 generated a report (Report: report_14, Format: CSV)."},
+  {"text": "INFO: System backup completed on Database."},
+  {"text": "ERROR: user_78 encountered an error: Email delivery failure (Report: report_3)."},
+  {"text": "ERROR: user_52 encountered an error: Email delivery failure (Report: report_2)."},
+  {"text": "INFO: System backup completed on Database."},
+  {"text": "INFO: user_89 updated account settings (Report: report_26, Format: PDF)."},
+  {"text": "INFO: Data sync completed on Cache Service."},
+  {"text": "INFO: user_14 generated a report (Report: report_42, Format: CSV)."},
+  {"text": "INFO: user_4 deleted a report (Report: report_45, Format: PDF)."},
+  {"text": "ERROR: user_28 encountered an error: Database timeout (Report: report_43)."},
   { "text": "INFO: Cache cleared on Database." },
   { "text": "INFO: Data sync completed on CRM." },
-  {
-    "text": "ERROR: user_73 encountered an error: Unauthorized action (Report: report_4)."
-  },
-  {
-    "text": "INFO: user_58 exported a report (Report: report_50, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_42 encountered an error: Database timeout (Report: report_12)."
-  },
-  {
-    "text": "INFO: user_29 exported a report (Report: report_35, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_87 encountered an error: Invalid input (Report: report_40)."
-  },
-  {
-    "text": "ERROR: user_23 encountered an error: Data not found (Report: report_1)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_32 updated account settings (Report: report_4, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_94 deleted a report (Report: report_8, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_20 generated a report (Report: report_35, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_69 updated account settings (Report: report_48, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_60 encountered an error: Permission denied (Report: report_23)."
-  },
-  {
-    "text": "INFO: user_46 changed password (Report: report_43, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_45 encountered an error: Invalid input (Report: report_43)."
-  },
-  {
-    "text": "ERROR: user_62 encountered an error: Data not found (Report: report_25)."
-  },
-  {
-    "text": "ERROR: user_77 encountered an error: Permission denied (Report: report_21)."
-  },
+  {"text": "ERROR: user_73 encountered an error: Unauthorized action (Report: report_4)."},
+  {"text": "INFO: user_58 exported a report (Report: report_50, Format: Excel)."},
+  {"text": "ERROR: user_42 encountered an error: Database timeout (Report: report_12)."},
+  {"text": "INFO: user_29 exported a report (Report: report_35, Format: Excel)."},
+  {"text": "ERROR: user_87 encountered an error: Invalid input (Report: report_40)."},
+  {"text": "ERROR: user_23 encountered an error: Data not found (Report: report_1)."},
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
+  {"text": "INFO: user_32 updated account settings (Report: report_4, Format: CSV)."},
+  {"text": "INFO: user_94 deleted a report (Report: report_8, Format: PDF)."},
+  {"text": "INFO: user_20 generated a report (Report: report_35, Format: PDF)."},
+  {"text": "INFO: user_69 updated account settings (Report: report_48, Format: CSV)."},
+  {"text": "ERROR: user_60 encountered an error: Permission denied (Report: report_23)."},
+  {"text": "INFO: user_46 changed password (Report: report_43, Format: PDF)."},
+  {"text": "ERROR: user_45 encountered an error: Invalid input (Report: report_43)."},
+  {"text": "ERROR: user_62 encountered an error: Data not found (Report: report_25)."},
+  {"text": "ERROR: user_77 encountered an error: Permission denied (Report: report_21)."},
   { "text": "INFO: Report generated on Database." },
-  {
-    "text": "INFO: Report generated on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_87 encountered an error: Invalid input (Report: report_30)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Database."
-  },
-  {
-    "text": "ERROR: user_59 encountered an error: Data not found (Report: report_3)."
-  },
-  {
-    "text": "INFO: user_38 exported a report (Report: report_30, Format: PDF)."
-  },
-  {
-    "text": "INFO: Report generated on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_11 encountered an error: Database timeout (Report: report_14)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Cache Service."
-  },
-  {
-    "text": "ERROR: user_3 encountered an error: Database timeout (Report: report_26)."
-  },
-  {
-    "text": "ERROR: user_76 encountered an error: Database timeout (Report: report_48)."
-  },
-  {
-    "text": "ERROR: user_13 encountered an error: Data not found (Report: report_15)."
-  },
-  {
-    "text": "INFO: user_89 updated account settings (Report: report_4, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_36 generated a report (Report: report_47, Format: PDF)."
-  },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
-  {
-    "text": "ERROR: user_39 encountered an error: Data not found (Report: report_45)."
-  },
-  {
-    "text": "ERROR: user_66 encountered an error: Invalid input (Report: report_18)."
-  },
-  {
-    "text": "INFO: user_49 viewed dashboard (Report: report_22, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_51 encountered an error: Permission denied (Report: report_14)."
-  },
-  {
-    "text": "ERROR: user_30 encountered an error: Data not found (Report: report_34)."
-  },
-  {
-    "text": "INFO: user_22 scheduled an email (Report: report_31, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_21 encountered an error: Email delivery failure (Report: report_45)."
-  },
-  {
-    "text": "ERROR: user_10 encountered an error: Database timeout (Report: report_18)."
-  },
+  {"text": "INFO: Report generated on Reporting Engine."},
+  {"text": "ERROR: user_87 encountered an error: Invalid input (Report: report_30)."},
+  {"text": "INFO: Scheduled task executed on Database."},
+  {"text": "ERROR: user_59 encountered an error: Data not found (Report: report_3)."},
+  {"text": "INFO: user_38 exported a report (Report: report_30, Format: PDF)."},
+  {"text": "INFO: Report generated on Reporting Engine."},
+  {"text": "ERROR: user_11 encountered an error: Database timeout (Report: report_14)."},
+  {"text": "INFO: Scheduled task executed on Cache Service."},
+  {"text": "ERROR: user_3 encountered an error: Database timeout (Report: report_26)."},
+  {"text": "ERROR: user_76 encountered an error: Database timeout (Report: report_48)."},
+  {"text": "ERROR: user_13 encountered an error: Data not found (Report: report_15)."},
+  {"text": "INFO: user_89 updated account settings (Report: report_4, Format: PDF)."},
+  {"text": "INFO: user_36 generated a report (Report: report_47, Format: PDF)."},
+  {"text": "INFO: System backup completed on Database."},
+  {"text": "ERROR: user_39 encountered an error: Data not found (Report: report_45)."},
+  {"text": "ERROR: user_66 encountered an error: Invalid input (Report: report_18)."},
+  {"text": "INFO: user_49 viewed dashboard (Report: report_22, Format: CSV)."},
+  {"text": "ERROR: user_51 encountered an error: Permission denied (Report: report_14)."},
+  {"text": "ERROR: user_30 encountered an error: Data not found (Report: report_34)."},
+  {"text": "INFO: user_22 scheduled an email (Report: report_31, Format: Excel)."},
+  {"text": "ERROR: user_21 encountered an error: Email delivery failure (Report: report_45)."},
+  {"text": "ERROR: user_10 encountered an error: Database timeout (Report: report_18)."},
   { "text": "INFO: API request processed on CRM." },
-  {
-    "text": "ERROR: user_83 encountered an error: Database timeout (Report: report_47)."
-  },
+  {"text": "ERROR: user_83 encountered an error: Database timeout (Report: report_47)."},
   { "text": "INFO: Report generated on Cache Service." },
-  {
-    "text": "ERROR: user_62 encountered an error: Data not found (Report: report_2)."
-  },
-  {
-    "text": "ERROR: user_14 encountered an error: Email delivery failure (Report: report_25)."
-  },
-  {
-    "text": "ERROR: user_84 encountered an error: Database timeout (Report: report_13)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
+  {"text": "ERROR: user_62 encountered an error: Data not found (Report: report_2)."},
+  {"text": "ERROR: user_14 encountered an error: Email delivery failure (Report: report_25)."},
+  {"text": "ERROR: user_84 encountered an error: Database timeout (Report: report_13)."},
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
   { "text": "INFO: Email sent on Email Server." },
-  {
-    "text": "ERROR: user_34 encountered an error: Unauthorized action (Report: report_17)."
-  },
-  {
-    "text": "INFO: user_75 logged out (Report: report_13, Format: CSV)."
-  },
+  {"text": "ERROR: user_34 encountered an error: Unauthorized action (Report: report_17)."},
+  {"text": "INFO: user_75 logged out (Report: report_13, Format: CSV)."},
   { "text": "INFO: Report generated on Cache Service." },
-  {
-    "text": "INFO: user_19 exported a report (Report: report_17, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_69 encountered an error: Invalid input (Report: report_24)."
-  },
-  {
-    "text": "INFO: user_56 logged in (Report: report_22, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_61 encountered an error: Unauthorized action (Report: report_11)."
-  },
-  {
-    "text": "ERROR: user_67 encountered an error: Database timeout (Report: report_16)."
-  },
-  {
-    "text": "INFO: user_99 deleted a report (Report: report_50, Format: CSV)."
-  },
+  {"text": "INFO: user_19 exported a report (Report: report_17, Format: PDF)."},
+  {"text": "ERROR: user_69 encountered an error: Invalid input (Report: report_24)."},
+  {"text": "INFO: user_56 logged in (Report: report_22, Format: Excel)."},
+  {"text": "ERROR: user_61 encountered an error: Unauthorized action (Report: report_11)."},
+  {"text": "ERROR: user_67 encountered an error: Database timeout (Report: report_16)."},
+  {"text": "INFO: user_99 deleted a report (Report: report_50, Format: CSV)."},
   { "text": "INFO: Data sync completed on CRM." },
-  {
-    "text": "INFO: System backup completed on Cache Service."
-  },
-  {
-    "text": "ERROR: user_79 encountered an error: Data not found (Report: report_32)."
-  },
-  {
-    "text": "ERROR: user_81 encountered an error: Email delivery failure (Report: report_30)."
-  },
-  {
-    "text": "ERROR: user_50 encountered an error: Permission denied (Report: report_38)."
-  },
-  {
-    "text": "ERROR: user_47 encountered an error: Permission denied (Report: report_8)."
-  },
-  {
-    "text": "INFO: user_26 deleted a report (Report: report_44, Format: PDF)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
+  {"text": "INFO: System backup completed on Cache Service."},
+  {"text": "ERROR: user_79 encountered an error: Data not found (Report: report_32)."},
+  {"text": "ERROR: user_81 encountered an error: Email delivery failure (Report: report_30)."},
+  {"text": "ERROR: user_50 encountered an error: Permission denied (Report: report_38)."},
+  {"text": "ERROR: user_47 encountered an error: Permission denied (Report: report_8)."},
+  {"text": "INFO: user_26 deleted a report (Report: report_44, Format: PDF)."},
+  {"text": "INFO: Maintenance window started on Email Server."},
   { "text": "INFO: Cache cleared on Cache Service." },
-  {
-    "text": "INFO: user_49 deleted a report (Report: report_34, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_44 encountered an error: Database timeout (Report: report_35)."
-  },
-  {
-    "text": "INFO: API request processed on Cache Service."
-  },
-  {
-    "text": "INFO: System backup completed on Email Server."
-  },
+  {"text": "INFO: user_49 deleted a report (Report: report_34, Format: Excel)."},
+  {"text": "ERROR: user_44 encountered an error: Database timeout (Report: report_35)."},
+  {"text": "INFO: API request processed on Cache Service."},
+  {"text": "INFO: System backup completed on Email Server."},
   { "text": "INFO: Data sync completed on CRM." },
   { "text": "INFO: Email sent on Database." },
-  {
-    "text": "ERROR: user_94 encountered an error: Permission denied (Report: report_33)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
-  {
-    "text": "INFO: Maintenance window started on Database."
-  },
-  {
-    "text": "INFO: user_87 viewed dashboard (Report: report_10, Format: CSV)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
-  {
-    "text": "INFO: System backup completed on Cache Service."
-  },
-  {
-    "text": "ERROR: user_52 encountered an error: Data not found (Report: report_29)."
-  },
+  {"text": "ERROR: user_94 encountered an error: Permission denied (Report: report_33)."},
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
+  {"text": "INFO: Maintenance window started on Database."},
+  {"text": "INFO: user_87 viewed dashboard (Report: report_10, Format: CSV)."},
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
+  {"text": "INFO: System backup completed on Cache Service."},
+  {"text": "ERROR: user_52 encountered an error: Data not found (Report: report_29)."},
   { "text": "INFO: Data sync completed on CRM." },
   { "text": "INFO: Report generated on Email Server." },
-  {
-    "text": "ERROR: user_8 encountered an error: Permission denied (Report: report_12)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "INFO: user_39 updated account settings (Report: report_13, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_79 encountered an error: Email delivery failure (Report: report_27)."
-  },
+  {"text": "ERROR: user_8 encountered an error: Permission denied (Report: report_12)."},
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "INFO: user_39 updated account settings (Report: report_13, Format: CSV)."},
+  {"text": "ERROR: user_79 encountered an error: Email delivery failure (Report: report_27)."},
   { "text": "INFO: Cache cleared on Cache Service." },
-  {
-    "text": "INFO: user_4 updated account settings (Report: report_7, Format: PDF)."
-  },
-  {
-    "text": "INFO: Data sync completed on Cache Service."
-  },
-  {
-    "text": "INFO: user_91 deleted a report (Report: report_21, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_40 scheduled an email (Report: report_13, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_20 encountered an error: Email delivery failure (Report: report_43)."
-  },
-  {
-    "text": "INFO: user_98 logged in (Report: report_43, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_64 encountered an error: Email delivery failure (Report: report_19)."
-  },
-  {
-    "text": "ERROR: user_7 encountered an error: Unauthorized action (Report: report_21)."
-  },
-  {
-    "text": "ERROR: user_80 encountered an error: Unauthorized action (Report: report_5)."
-  },
-  {
-    "text": "INFO: user_96 viewed dashboard (Report: report_50, Format: CSV)."
-  },
+  {"text": "INFO: user_4 updated account settings (Report: report_7, Format: PDF)."},
+  {"text": "INFO: Data sync completed on Cache Service."},
+  {"text": "INFO: user_91 deleted a report (Report: report_21, Format: PDF)."},
+  {"text": "INFO: user_40 scheduled an email (Report: report_13, Format: CSV)."},
+  {"text": "ERROR: user_20 encountered an error: Email delivery failure (Report: report_43)."},
+  {"text": "INFO: user_98 logged in (Report: report_43, Format: Excel)."},
+  {"text": "ERROR: user_64 encountered an error: Email delivery failure (Report: report_19)."},
+  {"text": "ERROR: user_7 encountered an error: Unauthorized action (Report: report_21)."},
+  {"text": "ERROR: user_80 encountered an error: Unauthorized action (Report: report_5)."},
+  {"text": "INFO: user_96 viewed dashboard (Report: report_50, Format: CSV)."},
   { "text": "INFO: Cache cleared on Database." },
-  {
-    "text": "ERROR: user_32 encountered an error: Database timeout (Report: report_27)."
-  },
-  {
-    "text": "INFO: API request processed on Email Server."
-  },
-  {
-    "text": "INFO: user_65 scheduled an email (Report: report_30, Format: Excel)."
-  },
+  {"text": "ERROR: user_32 encountered an error: Database timeout (Report: report_27)."},
+  {"text": "INFO: API request processed on Email Server."},
+  {"text": "INFO: user_65 scheduled an email (Report: report_30, Format: Excel)."},
   { "text": "INFO: Report generated on CRM." },
-  {
-    "text": "INFO: Maintenance window started on Cache Service."
-  },
-  {
-    "text": "INFO: user_40 exported a report (Report: report_29, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_13 encountered an error: Email delivery failure (Report: report_27)."
-  },
-  {
-    "text": "INFO: user_12 changed password (Report: report_14, Format: Excel)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_50 encountered an error: Email delivery failure (Report: report_27)."
-  },
-  {
-    "text": "ERROR: user_58 encountered an error: Permission denied (Report: report_49)."
-  },
-  {
-    "text": "INFO: user_97 deleted a report (Report: report_31, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_93 encountered an error: Invalid input (Report: report_14)."
-  },
-  {
-    "text": "INFO: user_81 scheduled an email (Report: report_13, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_86 encountered an error: Unauthorized action (Report: report_20)."
-  },
+  {"text": "INFO: Maintenance window started on Cache Service."},
+  {"text": "INFO: user_40 exported a report (Report: report_29, Format: CSV)."},
+  {"text": "ERROR: user_13 encountered an error: Email delivery failure (Report: report_27)."},
+  {"text": "INFO: user_12 changed password (Report: report_14, Format: Excel)."},
+  {"text": "INFO: Scheduled task executed on Reporting Engine."},
+  {"text": "ERROR: user_50 encountered an error: Email delivery failure (Report: report_27)."},
+  {"text": "ERROR: user_58 encountered an error: Permission denied (Report: report_49)."},
+  {"text": "INFO: user_97 deleted a report (Report: report_31, Format: CSV)."},
+  {"text": "ERROR: user_93 encountered an error: Invalid input (Report: report_14)."},
+  {"text": "INFO: user_81 scheduled an email (Report: report_13, Format: Excel)."},
+  {"text": "ERROR: user_86 encountered an error: Unauthorized action (Report: report_20)."},
   { "text": "INFO: Email sent on Cache Service." },
-  {
-    "text": "INFO: user_27 updated account settings (Report: report_12, Format: CSV)."
-  },
-  {
-    "text": "INFO: System backup completed on Cache Service."
-  },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "ERROR: user_33 encountered an error: Permission denied (Report: report_21)."
-  },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
+  {"text": "INFO: user_27 updated account settings (Report: report_12, Format: CSV)."},
+  {"text": "INFO: System backup completed on Cache Service."},
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "ERROR: user_33 encountered an error: Permission denied (Report: report_21)."},
+  {"text": "INFO: System backup completed on Database."},
   { "text": "INFO: Email sent on CRM." },
   { "text": "INFO: Cache cleared on Reporting Engine." },
-  {
-    "text": "INFO: user_57 logged out (Report: report_25, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_27 logged out (Report: report_49, Format: CSV)."
-  },
+  {"text": "INFO: user_57 logged out (Report: report_25, Format: Excel)."},
+  {"text": "INFO: user_27 logged out (Report: report_49, Format: CSV)."},
   { "text": "INFO: Cache cleared on Cache Service." },
-  {
-    "text": "INFO: user_2 viewed dashboard (Report: report_32, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_15 encountered an error: Unauthorized action (Report: report_47)."
-  },
-  {
-    "text": "ERROR: user_20 encountered an error: Invalid input (Report: report_35)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Database."
-  },
-  {
-    "text": "INFO: user_43 viewed dashboard (Report: report_44, Format: PDF)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
-  {
-    "text": "ERROR: user_19 encountered an error: Database timeout (Report: report_50)."
-  },
-  {
-    "text": "ERROR: user_8 encountered an error: Database timeout (Report: report_22)."
-  },
-  {
-    "text": "INFO: API request processed on Email Server."
-  },
-  {
-    "text": "ERROR: user_20 encountered an error: Unauthorized action (Report: report_49)."
-  },
-  {
-    "text": "INFO: user_86 updated account settings (Report: report_45, Format: CSV)."
-  },
+  {"text": "INFO: user_2 viewed dashboard (Report: report_32, Format: CSV)."},
+  {"text": "ERROR: user_15 encountered an error: Unauthorized action (Report: report_47)."},
+  {"text": "ERROR: user_20 encountered an error: Invalid input (Report: report_35)."},
+  {"text": "INFO: Scheduled task executed on Database."},
+  {"text": "INFO: user_43 viewed dashboard (Report: report_44, Format: PDF)."},
+  {"text": "INFO: Scheduled task executed on Email Server."},
+  {"text": "ERROR: user_19 encountered an error: Database timeout (Report: report_50)."},
+  {"text": "ERROR: user_8 encountered an error: Database timeout (Report: report_22)."},
+  {"text": "INFO: API request processed on Email Server."},
+  {"text": "ERROR: user_20 encountered an error: Unauthorized action (Report: report_49)."},
+  {"text": "INFO: user_86 updated account settings (Report: report_45, Format: CSV)."},
   { "text": "INFO: Cache cleared on Email Server." },
-  {
-    "text": "ERROR: user_18 encountered an error: Permission denied (Report: report_13)."
-  },
-  {
-    "text": "ERROR: user_28 encountered an error: Permission denied (Report: report_21)."
-  },
-  {
-    "text": "INFO: user_36 viewed dashboard (Report: report_21, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_50 encountered an error: Unauthorized action (Report: report_6)."
-  },
-  {
-    "text": "INFO: System backup completed on Email Server."
-  },
-  {
-    "text": "INFO: user_67 updated account settings (Report: report_41, Format: Excel)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
-  {
-    "text": "INFO: user_79 exported a report (Report: report_17, Format: Excel)."
-  },
+  {"text": "ERROR: user_18 encountered an error: Permission denied (Report: report_13)."},
+  {"text": "ERROR: user_28 encountered an error: Permission denied (Report: report_21)."},
+  {"text": "INFO: user_36 viewed dashboard (Report: report_21, Format: PDF)."},
+  {"text": "ERROR: user_50 encountered an error: Unauthorized action (Report: report_6)."},
+  {"text": "INFO: System backup completed on Email Server."},
+  {"text": "INFO: user_67 updated account settings (Report: report_41, Format: Excel)."},
+  {"text": "INFO: Scheduled task executed on Email Server."},
+  {"text": "INFO: user_79 exported a report (Report: report_17, Format: Excel)."},
   { "text": "INFO: Report generated on Email Server." },
-  {
-    "text": "INFO: Scheduled task executed on Database."
-  },
-  {
-    "text": "ERROR: user_10 encountered an error: Data not found (Report: report_13)."
-  },
-  {
-    "text": "ERROR: user_37 encountered an error: Invalid input (Report: report_8)."
-  },
-  {
-    "text": "ERROR: user_40 encountered an error: Invalid input (Report: report_12)."
-  },
-  {
-    "text": "INFO: user_94 logged out (Report: report_5, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_13 changed password (Report: report_34, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_85 encountered an error: Database timeout (Report: report_7)."
-  },
-  {
-    "text": "ERROR: user_57 encountered an error: Invalid input (Report: report_5)."
-  },
-  {
-    "text": "ERROR: user_52 encountered an error: Invalid input (Report: report_43)."
-  },
+  {"text": "INFO: Scheduled task executed on Database."},
+  {"text": "ERROR: user_10 encountered an error: Data not found (Report: report_13)."},
+  {"text": "ERROR: user_37 encountered an error: Invalid input (Report: report_8)."},
+  {"text": "ERROR: user_40 encountered an error: Invalid input (Report: report_12)."},
+  {"text": "INFO: user_94 logged out (Report: report_5, Format: CSV)."},
+  {"text": "INFO: user_13 changed password (Report: report_34, Format: CSV)."},
+  {"text": "ERROR: user_85 encountered an error: Database timeout (Report: report_7)."},
+  {"text": "ERROR: user_57 encountered an error: Invalid input (Report: report_5)."},
+  {"text": "ERROR: user_52 encountered an error: Invalid input (Report: report_43)."},
   { "text": "INFO: Cache cleared on Database." },
   { "text": "INFO: Cache cleared on CRM." },
-  {
-    "text": "INFO: user_25 logged out (Report: report_28, Format: CSV)."
-  },
-  {
-    "text": "INFO: System backup completed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_81 encountered an error: Unauthorized action (Report: report_36)."
-  },
-  {
-    "text": "INFO: user_78 scheduled an email (Report: report_12, Format: CSV)."
-  },
-  {
-    "text": "INFO: Report generated on Reporting Engine."
-  },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
+  {"text": "INFO: user_25 logged out (Report: report_28, Format: CSV)."},
+  {"text": "INFO: System backup completed on Reporting Engine."},
+  {"text": "ERROR: user_81 encountered an error: Unauthorized action (Report: report_36)."},
+  {"text": "INFO: user_78 scheduled an email (Report: report_12, Format: CSV)."},
+  {"text": "INFO: Report generated on Reporting Engine."},
+  {"text": "INFO: System backup completed on Database."},
   { "text": "INFO: Report generated on Cache Service." },
-  {
-    "text": "ERROR: user_57 encountered an error: Email delivery failure (Report: report_14)."
-  },
+  {"text": "ERROR: user_57 encountered an error: Email delivery failure (Report: report_14)."},
   { "text": "INFO: Data sync completed on Database." },
-  {
-    "text": "INFO: user_95 scheduled an email (Report: report_14, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_84 encountered an error: Email delivery failure (Report: report_40)."
-  },
+  {"text": "INFO: user_95 scheduled an email (Report: report_14, Format: PDF)."},
+  {"text": "ERROR: user_84 encountered an error: Email delivery failure (Report: report_40)."},
   { "text": "INFO: Email sent on CRM." },
-  {
-    "text": "INFO: user_30 deleted a report (Report: report_31, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_71 logged out (Report: report_12, Format: Excel)."
-  },
+  {"text": "INFO: user_30 deleted a report (Report: report_31, Format: Excel)."},
+  {"text": "INFO: user_71 logged out (Report: report_12, Format: Excel)."},
   { "text": "INFO: Data sync completed on CRM." },
   { "text": "INFO: Scheduled task executed on CRM." },
   { "text": "INFO: Scheduled task executed on CRM." },
-  {
-    "text": "ERROR: user_82 encountered an error: Unauthorized action (Report: report_1)."
-  },
-  {
-    "text": "ERROR: user_87 encountered an error: Email delivery failure (Report: report_40)."
-  },
+  {"text": "ERROR: user_82 encountered an error: Unauthorized action (Report: report_1)."},
+  {"text": "ERROR: user_87 encountered an error: Email delivery failure (Report: report_40)."},
   { "text": "INFO: Email sent on Reporting Engine." },
-  {
-    "text": "INFO: Data sync completed on Cache Service."
-  },
-  {
-    "text": "INFO: user_78 changed password (Report: report_49, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_53 encountered an error: Email delivery failure (Report: report_9)."
-  },
-  {
-    "text": "INFO: user_98 updated account settings (Report: report_49, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_56 encountered an error: Permission denied (Report: report_41)."
-  },
-  {
-    "text": "ERROR: user_37 encountered an error: Permission denied (Report: report_25)."
-  },
-  {
-    "text": "INFO: user_13 scheduled an email (Report: report_35, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_3 viewed dashboard (Report: report_35, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_25 scheduled an email (Report: report_5, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_21 logged out (Report: report_6, Format: PDF)."
-  },
-  {
-    "text": "INFO: Data sync completed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_58 encountered an error: Data not found (Report: report_17)."
-  },
+  {"text": "INFO: Data sync completed on Cache Service."},
+  {"text": "INFO: user_78 changed password (Report: report_49, Format: Excel)."},
+  {"text": "ERROR: user_53 encountered an error: Email delivery failure (Report: report_9)."},
+  {"text": "INFO: user_98 updated account settings (Report: report_49, Format: PDF)."},
+  {"text": "ERROR: user_56 encountered an error: Permission denied (Report: report_41)."},
+  {"text": "ERROR: user_37 encountered an error: Permission denied (Report: report_25)."},
+  {"text": "INFO: user_13 scheduled an email (Report: report_35, Format: Excel)."},
+  {"text": "INFO: user_3 viewed dashboard (Report: report_35, Format: PDF)."},
+  {"text": "INFO: user_25 scheduled an email (Report: report_5, Format: Excel)."},
+  {"text": "INFO: user_21 logged out (Report: report_6, Format: PDF)."},
+  {"text": "INFO: Data sync completed on Reporting Engine."},
+  {"text": "ERROR: user_58 encountered an error: Data not found (Report: report_17)."},
   { "text": "INFO: Cache cleared on CRM." },
-  {
-    "text": "INFO: Maintenance window started on Cache Service."
-  },
-  {
-    "text": "ERROR: user_93 encountered an error: Data not found (Report: report_48)."
-  },
+  {"text": "INFO: Maintenance window started on Cache Service."},
+  {"text": "ERROR: user_93 encountered an error: Data not found (Report: report_48)."},
   { "text": "INFO: Report generated on Email Server." },
-  {
-    "text": "INFO: user_62 generated a report (Report: report_8, Format: Excel)."
-  },
+  {"text": "INFO: user_62 generated a report (Report: report_8, Format: Excel)."},
   { "text": "INFO: Cache cleared on Cache Service." },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_66 viewed dashboard (Report: report_23, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_20 deleted a report (Report: report_14, Format: PDF)."
-  },
-  {
-    "text": "INFO: System backup completed on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_79 scheduled an email (Report: report_28, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_77 updated account settings (Report: report_34, Format: Excel)."
-  },
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
+  {"text": "INFO: user_66 viewed dashboard (Report: report_23, Format: PDF)."},
+  {"text": "INFO: user_20 deleted a report (Report: report_14, Format: PDF)."},
+  {"text": "INFO: System backup completed on Reporting Engine."},
+  {"text": "INFO: user_79 scheduled an email (Report: report_28, Format: PDF)."},
+  {"text": "INFO: user_77 updated account settings (Report: report_34, Format: Excel)."},
   { "text": "INFO: Email sent on Database." },
-  {
-    "text": "ERROR: user_90 encountered an error: Data not found (Report: report_19)."
-  },
+  {"text": "ERROR: user_90 encountered an error: Data not found (Report: report_19)."},
   { "text": "INFO: Report generated on CRM." },
-  {
-    "text": "INFO: user_70 scheduled an email (Report: report_4, Format: Excel)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_95 generated a report (Report: report_15, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_52 encountered an error: Database timeout (Report: report_38)."
-  },
-  {
-    "text": "ERROR: user_1 encountered an error: Permission denied (Report: report_50)."
-  },
-  {
-    "text": "INFO: user_40 deleted a report (Report: report_48, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_51 encountered an error: Email delivery failure (Report: report_50)."
-  },
-  {
-    "text": "INFO: user_24 scheduled an email (Report: report_38, Format: Excel)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_63 scheduled an email (Report: report_41, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_82 viewed dashboard (Report: report_8, Format: PDF)."
-  },
+  {"text": "INFO: user_70 scheduled an email (Report: report_4, Format: Excel)."},
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
+  {"text": "INFO: user_95 generated a report (Report: report_15, Format: PDF)."},
+  {"text": "ERROR: user_52 encountered an error: Database timeout (Report: report_38)."},
+  {"text": "ERROR: user_1 encountered an error: Permission denied (Report: report_50)."},
+  {"text": "INFO: user_40 deleted a report (Report: report_48, Format: CSV)."},
+  {"text": "ERROR: user_51 encountered an error: Email delivery failure (Report: report_50)."},
+  {"text": "INFO: user_24 scheduled an email (Report: report_38, Format: Excel)."},
+  {"text": "INFO: Scheduled task executed on Reporting Engine."},
+  {"text": "INFO: user_63 scheduled an email (Report: report_41, Format: CSV)."},
+  {"text": "INFO: user_82 viewed dashboard (Report: report_8, Format: PDF)."},
   { "text": "INFO: API request processed on CRM." },
-  {
-    "text": "INFO: Maintenance window started on Database."
-  },
-  {
-    "text": "INFO: user_1 scheduled an email (Report: report_34, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_64 encountered an error: Permission denied (Report: report_47)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
-  {
-    "text": "ERROR: user_87 encountered an error: Data not found (Report: report_44)."
-  },
-  {
-    "text": "ERROR: user_95 encountered an error: Unauthorized action (Report: report_42)."
-  },
+  {"text": "INFO: Maintenance window started on Database."},
+  {"text": "INFO: user_1 scheduled an email (Report: report_34, Format: PDF)."},
+  {"text": "ERROR: user_64 encountered an error: Permission denied (Report: report_47)."},
+  {"text": "INFO: Scheduled task executed on Email Server."},
+  {"text": "ERROR: user_87 encountered an error: Data not found (Report: report_44)."},
+  {"text": "ERROR: user_95 encountered an error: Unauthorized action (Report: report_42)."},
   { "text": "INFO: Report generated on Database." },
-  {
-    "text": "INFO: user_85 deleted a report (Report: report_18, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_70 encountered an error: Unauthorized action (Report: report_4)."
-  },
-  {
-    "text": "INFO: user_47 logged in (Report: report_39, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_23 encountered an error: Permission denied (Report: report_22)."
-  },
-  {
-    "text": "ERROR: user_24 encountered an error: Permission denied (Report: report_12)."
-  },
-  {
-    "text": "INFO: user_92 viewed dashboard (Report: report_10, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_67 logged in (Report: report_39, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_90 logged out (Report: report_17, Format: CSV)."
-  },
+  {"text": "INFO: user_85 deleted a report (Report: report_18, Format: PDF)."},
+  {"text": "ERROR: user_70 encountered an error: Unauthorized action (Report: report_4)."},
+  {"text": "INFO: user_47 logged in (Report: report_39, Format: Excel)."},
+  {"text": "ERROR: user_23 encountered an error: Permission denied (Report: report_22)."},
+  {"text": "ERROR: user_24 encountered an error: Permission denied (Report: report_12)."},
+  {"text": "INFO: user_92 viewed dashboard (Report: report_10, Format: Excel)."},
+  {"text": "INFO: user_67 logged in (Report: report_39, Format: CSV)."},
+  {"text": "INFO: user_90 logged out (Report: report_17, Format: CSV)."},
   { "text": "INFO: Email sent on CRM." },
-  {
-    "text": "ERROR: user_79 encountered an error: Unauthorized action (Report: report_1)."
-  },
-  {
-    "text": "INFO: user_15 deleted a report (Report: report_15, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_33 encountered an error: Invalid input (Report: report_23)."
-  },
-  {
-    "text": "INFO: user_98 generated a report (Report: report_23, Format: Excel)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Reporting Engine."
-  },
-  {
-    "text": "INFO: Data sync completed on Cache Service."
-  },
-  {
-    "text": "INFO: user_38 logged out (Report: report_28, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_35 logged out (Report: report_16, Format: Excel)."
-  },
+  {"text": "ERROR: user_79 encountered an error: Unauthorized action (Report: report_1)."},
+  {"text": "INFO: user_15 deleted a report (Report: report_15, Format: PDF)."},
+  {"text": "ERROR: user_33 encountered an error: Invalid input (Report: report_23)."},
+  {"text": "INFO: user_98 generated a report (Report: report_23, Format: Excel)."},
+  {"text": "INFO: Scheduled task executed on Reporting Engine."},
+  {"text": "INFO: Data sync completed on Cache Service."},
+  {"text": "INFO: user_38 logged out (Report: report_28, Format: PDF)."},
+  {"text": "INFO: user_35 logged out (Report: report_16, Format: Excel)."},
   { "text": "INFO: Scheduled task executed on CRM." },
-  {
-    "text": "INFO: user_9 generated a report (Report: report_9, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_73 scheduled an email (Report: report_48, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_27 generated a report (Report: report_37, Format: PDF)."
-  },
+  {"text": "INFO: user_9 generated a report (Report: report_9, Format: PDF)."},
+  {"text": "INFO: user_73 scheduled an email (Report: report_48, Format: Excel)."},
+  {"text": "INFO: user_27 generated a report (Report: report_37, Format: PDF)."},
   { "text": "INFO: API request processed on CRM." },
-  {
-    "text": "ERROR: user_88 encountered an error: Database timeout (Report: report_3)."
-  },
-  {
-    "text": "ERROR: user_96 encountered an error: Invalid input (Report: report_43)."
-  },
-  {
-    "text": "INFO: user_44 changed password (Report: report_9, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_10 deleted a report (Report: report_38, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_47 scheduled an email (Report: report_20, Format: CSV)."
-  },
+  {"text": "ERROR: user_88 encountered an error: Database timeout (Report: report_3)."},
+  {"text": "ERROR: user_96 encountered an error: Invalid input (Report: report_43)."},
+  {"text": "INFO: user_44 changed password (Report: report_9, Format: Excel)."},
+  {"text": "INFO: user_10 deleted a report (Report: report_38, Format: CSV)."},
+  {"text": "INFO: user_47 scheduled an email (Report: report_20, Format: CSV)."},
   { "text": "INFO: Email sent on CRM." },
-  {
-    "text": "ERROR: user_1 encountered an error: Permission denied (Report: report_42)."
-  },
-  {
-    "text": "ERROR: user_22 encountered an error: Unauthorized action (Report: report_6)."
-  },
+  {"text": "ERROR: user_1 encountered an error: Permission denied (Report: report_42)."},
+  {"text": "ERROR: user_22 encountered an error: Unauthorized action (Report: report_6)."},
   { "text": "INFO: Data sync completed on CRM." },
-  {
-    "text": "INFO: user_90 viewed dashboard (Report: report_15, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_68 encountered an error: Data not found (Report: report_39)."
-  },
-  {
-    "text": "INFO: user_25 exported a report (Report: report_7, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_13 exported a report (Report: report_21, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_51 encountered an error: Permission denied (Report: report_23)."
-  },
-  {
-    "text": "ERROR: user_86 encountered an error: Data not found (Report: report_3)."
-  },
-  {
-    "text": "ERROR: user_21 encountered an error: Permission denied (Report: report_9)."
-  },
-  {
-    "text": "ERROR: user_53 encountered an error: Data not found (Report: report_4)."
-  },
-  {
-    "text": "ERROR: user_93 encountered an error: Permission denied (Report: report_25)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
-  {
-    "text": "INFO: user_1 deleted a report (Report: report_28, Format: PDF)."
-  },
+  {"text": "INFO: user_90 viewed dashboard (Report: report_15, Format: Excel)."},
+  {"text": "ERROR: user_68 encountered an error: Data not found (Report: report_39)."},
+  {"text": "INFO: user_25 exported a report (Report: report_7, Format: CSV)."},
+  {"text": "INFO: user_13 exported a report (Report: report_21, Format: Excel)."},
+  {"text": "ERROR: user_51 encountered an error: Permission denied (Report: report_23)."},
+  {"text": "ERROR: user_86 encountered an error: Data not found (Report: report_3)."},
+  {"text": "ERROR: user_21 encountered an error: Permission denied (Report: report_9)."},
+  {"text": "ERROR: user_53 encountered an error: Data not found (Report: report_4)."},
+  {"text": "ERROR: user_93 encountered an error: Permission denied (Report: report_25)."},
+  {"text": "INFO: Scheduled task executed on Email Server."},
+  {"text": "INFO: user_1 deleted a report (Report: report_28, Format: PDF)."},
   { "text": "INFO: Report generated on CRM." },
-  {
-    "text": "INFO: user_51 updated account settings (Report: report_23, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_96 logged in (Report: report_23, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_19 logged in (Report: report_32, Format: Excel)."
-  },
+  {"text": "INFO: user_51 updated account settings (Report: report_23, Format: Excel)."},
+  {"text": "INFO: user_96 logged in (Report: report_23, Format: PDF)."},
+  {"text": "INFO: user_19 logged in (Report: report_32, Format: Excel)."},
   { "text": "INFO: Cache cleared on Email Server." },
   { "text": "INFO: Email sent on CRM." },
   { "text": "INFO: Cache cleared on Email Server." },
   { "text": "INFO: Email sent on Cache Service." },
-  {
-    "text": "ERROR: user_10 encountered an error: Unauthorized action (Report: report_48)."
-  },
-  {
-    "text": "ERROR: user_24 encountered an error: Data not found (Report: report_33)."
-  },
-  {
-    "text": "ERROR: user_2 encountered an error: Invalid input (Report: report_32)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_19 changed password (Report: report_17, Format: Excel)."
-  },
-  {
-    "text": "INFO: API request processed on Reporting Engine."
-  },
+  {"text": "ERROR: user_10 encountered an error: Unauthorized action (Report: report_48)."},
+  {"text": "ERROR: user_24 encountered an error: Data not found (Report: report_33)."},
+  {"text": "ERROR: user_2 encountered an error: Invalid input (Report: report_32)."},
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
+  {"text": "INFO: user_19 changed password (Report: report_17, Format: Excel)."},
+  {"text": "INFO: API request processed on Reporting Engine."},
   { "text": "INFO: Email sent on CRM." },
-  {
-    "text": "ERROR: user_22 encountered an error: Unauthorized action (Report: report_40)."
-  },
-  {
-    "text": "ERROR: user_100 encountered an error: Permission denied (Report: report_1)."
-  },
-  {
-    "text": "INFO: Data sync completed on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_18 logged in (Report: report_47, Format: PDF)."
-  },
+  {"text": "ERROR: user_22 encountered an error: Unauthorized action (Report: report_40)."},
+  {"text": "ERROR: user_100 encountered an error: Permission denied (Report: report_1)."},
+  {"text": "INFO: Data sync completed on Reporting Engine."},
+  {"text": "INFO: user_18 logged in (Report: report_47, Format: PDF)."},
   { "text": "INFO: Email sent on Email Server." },
-  {
-    "text": "INFO: user_58 scheduled an email (Report: report_40, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_74 exported a report (Report: report_41, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_60 logged in (Report: report_25, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_21 encountered an error: Unauthorized action (Report: report_18)."
-  },
+  {"text": "INFO: user_58 scheduled an email (Report: report_40, Format: CSV)."},
+  {"text": "INFO: user_74 exported a report (Report: report_41, Format: Excel)."},
+  {"text": "INFO: user_60 logged in (Report: report_25, Format: Excel)."},
+  {"text": "ERROR: user_21 encountered an error: Unauthorized action (Report: report_18)."},
   { "text": "INFO: Email sent on CRM." },
-  {
-    "text": "INFO: user_86 logged in (Report: report_48, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_56 logged out (Report: report_18, Format: PDF)."
-  },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
-  {
-    "text": "ERROR: user_35 encountered an error: Unauthorized action (Report: report_13)."
-  },
+  {"text": "INFO: user_86 logged in (Report: report_48, Format: Excel)."},
+  {"text": "INFO: user_56 logged out (Report: report_18, Format: PDF)."},
+  {"text": "INFO: System backup completed on Database."},
+  {"text": "ERROR: user_35 encountered an error: Unauthorized action (Report: report_13)."},
   { "text": "INFO: Email sent on Cache Service." },
-  {
-    "text": "INFO: user_78 viewed dashboard (Report: report_8, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_40 encountered an error: Invalid input (Report: report_4)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Database."
-  },
-  {
-    "text": "ERROR: user_75 encountered an error: Email delivery failure (Report: report_3)."
-  },
-  {
-    "text": "ERROR: user_21 encountered an error: Email delivery failure (Report: report_6)."
-  },
-  {
-    "text": "INFO: user_95 generated a report (Report: report_28, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_24 changed password (Report: report_17, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_18 generated a report (Report: report_9, Format: CSV)."
-  },
-  {
-    "text": "INFO: Data sync completed on Email Server."
-  },
-  {
-    "text": "INFO: user_30 changed password (Report: report_34, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_83 encountered an error: Email delivery failure (Report: report_46)."
-  },
-  {
-    "text": "ERROR: user_98 encountered an error: Database timeout (Report: report_23)."
-  },
-  {
-    "text": "INFO: user_40 updated account settings (Report: report_34, Format: Excel)."
-  },
-  {
-    "text": "INFO: System backup completed on Cache Service."
-  },
-  {
-    "text": "ERROR: user_67 encountered an error: Data not found (Report: report_23)."
-  },
+  {"text": "INFO: user_78 viewed dashboard (Report: report_8, Format: PDF)."},
+  {"text": "ERROR: user_40 encountered an error: Invalid input (Report: report_4)."},
+  {"text": "INFO: Scheduled task executed on Database."},
+  {"text": "ERROR: user_75 encountered an error: Email delivery failure (Report: report_3)."},
+  {"text": "ERROR: user_21 encountered an error: Email delivery failure (Report: report_6)."},
+  {"text": "INFO: user_95 generated a report (Report: report_28, Format: PDF)."},
+  {"text": "INFO: user_24 changed password (Report: report_17, Format: Excel)."},
+  {"text": "INFO: user_18 generated a report (Report: report_9, Format: CSV)."},
+  {"text": "INFO: Data sync completed on Email Server."},
+  {"text": "INFO: user_30 changed password (Report: report_34, Format: Excel)."},
+  {"text": "ERROR: user_83 encountered an error: Email delivery failure (Report: report_46)."},
+  {"text": "ERROR: user_98 encountered an error: Database timeout (Report: report_23)."},
+  {"text": "INFO: user_40 updated account settings (Report: report_34, Format: Excel)."},
+  {"text": "INFO: System backup completed on Cache Service."},
+  {"text": "ERROR: user_67 encountered an error: Data not found (Report: report_23)."},
   { "text": "INFO: Report generated on Cache Service." },
-  {
-    "text": "INFO: user_84 scheduled an email (Report: report_26, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_72 encountered an error: Unauthorized action (Report: report_9)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Cache Service."
-  },
-  {
-    "text": "INFO: user_63 generated a report (Report: report_17, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_8 updated account settings (Report: report_23, Format: Excel)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Database."
-  },
-  {
-    "text": "INFO: Maintenance window started on Cache Service."
-  },
-  {
-    "text": "INFO: user_46 logged in (Report: report_16, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_38 logged out (Report: report_25, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_28 encountered an error: Invalid input (Report: report_15)."
-  },
-  {
-    "text": "ERROR: user_80 encountered an error: Unauthorized action (Report: report_49)."
-  },
+  {"text": "INFO: user_84 scheduled an email (Report: report_26, Format: CSV)."},
+  {"text": "ERROR: user_72 encountered an error: Unauthorized action (Report: report_9)."},
+  {"text": "INFO: Scheduled task executed on Cache Service."},
+  {"text": "INFO: user_63 generated a report (Report: report_17, Format: Excel)."},
+  {"text": "INFO: user_8 updated account settings (Report: report_23, Format: Excel)."},
+  {"text": "INFO: Maintenance window started on Database."},
+  {"text": "INFO: Maintenance window started on Cache Service."},
+  {"text": "INFO: user_46 logged in (Report: report_16, Format: PDF)."},
+  {"text": "INFO: user_38 logged out (Report: report_25, Format: Excel)."},
+  {"text": "ERROR: user_28 encountered an error: Invalid input (Report: report_15)."},
+  {"text": "ERROR: user_80 encountered an error: Unauthorized action (Report: report_49)."},
   { "text": "INFO: Email sent on CRM." },
-  {
-    "text": "ERROR: user_98 encountered an error: Permission denied (Report: report_44)."
-  },
-  {
-    "text": "ERROR: user_98 encountered an error: Email delivery failure (Report: report_3)."
-  },
-  {
-    "text": "ERROR: user_38 encountered an error: Email delivery failure (Report: report_41)."
-  },
-  {
-    "text": "INFO: user_78 logged in (Report: report_20, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_51 encountered an error: Email delivery failure (Report: report_46)."
-  },
+  {"text": "ERROR: user_98 encountered an error: Permission denied (Report: report_44)."},
+  {"text": "ERROR: user_98 encountered an error: Email delivery failure (Report: report_3)."},
+  {"text": "ERROR: user_38 encountered an error: Email delivery failure (Report: report_41)."},
+  {"text": "INFO: user_78 logged in (Report: report_20, Format: PDF)."},
+  {"text": "ERROR: user_51 encountered an error: Email delivery failure (Report: report_46)."},
   { "text": "INFO: Email sent on CRM." },
-  {
-    "text": "ERROR: user_60 encountered an error: Email delivery failure (Report: report_25)."
-  },
+  {"text": "ERROR: user_60 encountered an error: Email delivery failure (Report: report_25)."},
   { "text": "INFO: System backup completed on CRM." },
-  {
-    "text": "ERROR: user_41 encountered an error: Data not found (Report: report_38)."
-  },
-  {
-    "text": "ERROR: user_77 encountered an error: Permission denied (Report: report_38)."
-  },
+  {"text": "ERROR: user_41 encountered an error: Data not found (Report: report_38)."},
+  {"text": "ERROR: user_77 encountered an error: Permission denied (Report: report_38)."},
   { "text": "INFO: Email sent on Database." },
-  {
-    "text": "ERROR: user_54 encountered an error: Email delivery failure (Report: report_18)."
-  },
-  {
-    "text": "INFO: user_31 deleted a report (Report: report_28, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_60 viewed dashboard (Report: report_26, Format: Excel)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
-  {
-    "text": "INFO: user_86 updated account settings (Report: report_35, Format: CSV)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Database."
-  },
-  {
-    "text": "INFO: user_18 updated account settings (Report: report_33, Format: CSV)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Reporting Engine."
-  },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
-  {
-    "text": "ERROR: user_93 encountered an error: Permission denied (Report: report_2)."
-  },
-  {
-    "text": "ERROR: user_20 encountered an error: Data not found (Report: report_26)."
-  },
-  {
-    "text": "ERROR: user_84 encountered an error: Data not found (Report: report_26)."
-  },
-  {
-    "text": "INFO: user_81 scheduled an email (Report: report_19, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_89 encountered an error: Database timeout (Report: report_8)."
-  },
-  {
-    "text": "ERROR: user_33 encountered an error: Unauthorized action (Report: report_38)."
-  },
-  {
-    "text": "INFO: user_55 updated account settings (Report: report_3, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_32 encountered an error: Database timeout (Report: report_31)."
-  },
-  {
-    "text": "INFO: API request processed on Cache Service."
-  },
-  {
-    "text": "INFO: Maintenance window started on Cache Service."
-  },
+  {"text": "ERROR: user_54 encountered an error: Email delivery failure (Report: report_18)."},
+  {"text": "INFO: user_31 deleted a report (Report: report_28, Format: Excel)."},
+  {"text": "INFO: user_60 viewed dashboard (Report: report_26, Format: Excel)."},
+  {"text": "INFO: Scheduled task executed on Email Server."},
+  {"text": "INFO: user_86 updated account settings (Report: report_35, Format: CSV)."},
+  {"text": "INFO: Scheduled task executed on Database."},
+  {"text": "INFO: user_18 updated account settings (Report: report_33, Format: CSV)."},
+  {"text": "INFO: Scheduled task executed on Reporting Engine."},
+  {"text": "INFO: System backup completed on Database."},
+  {"text": "ERROR: user_93 encountered an error: Permission denied (Report: report_2)."},
+  {"text": "ERROR: user_20 encountered an error: Data not found (Report: report_26)."},
+  {"text": "ERROR: user_84 encountered an error: Data not found (Report: report_26)."},
+  {"text": "INFO: user_81 scheduled an email (Report: report_19, Format: PDF)."},
+  {"text": "ERROR: user_89 encountered an error: Database timeout (Report: report_8)."},
+  {"text": "ERROR: user_33 encountered an error: Unauthorized action (Report: report_38)."},
+  {"text": "INFO: user_55 updated account settings (Report: report_3, Format: CSV)."},
+  {"text": "ERROR: user_32 encountered an error: Database timeout (Report: report_31)."},
+  {"text": "INFO: API request processed on Cache Service."},
+  {"text": "INFO: Maintenance window started on Cache Service."},
   { "text": "INFO: API request processed on Database." },
-  {
-    "text": "ERROR: user_54 encountered an error: Unauthorized action (Report: report_21)."
-  },
-  {
-    "text": "ERROR: user_66 encountered an error: Unauthorized action (Report: report_35)."
-  },
-  {
-    "text": "ERROR: user_81 encountered an error: Email delivery failure (Report: report_27)."
-  },
-  {
-    "text": "INFO: API request processed on Cache Service."
-  },
-  {
-    "text": "ERROR: user_35 encountered an error: Invalid input (Report: report_22)."
-  },
+  {"text": "ERROR: user_54 encountered an error: Unauthorized action (Report: report_21)."},
+  {"text": "ERROR: user_66 encountered an error: Unauthorized action (Report: report_35)."},
+  {"text": "ERROR: user_81 encountered an error: Email delivery failure (Report: report_27)."},
+  {"text": "INFO: API request processed on Cache Service."},
+  {"text": "ERROR: user_35 encountered an error: Invalid input (Report: report_22)."},
   { "text": "INFO: System backup completed on CRM." },
-  {
-    "text": "ERROR: user_24 encountered an error: Email delivery failure (Report: report_9)."
-  },
-  {
-    "text": "INFO: user_91 logged out (Report: report_49, Format: Excel)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "INFO: user_100 scheduled an email (Report: report_43, Format: PDF)."
-  },
+  {"text": "ERROR: user_24 encountered an error: Email delivery failure (Report: report_9)."},
+  {"text": "INFO: user_91 logged out (Report: report_49, Format: Excel)."},
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "INFO: user_100 scheduled an email (Report: report_43, Format: PDF)."},
   { "text": "INFO: Cache cleared on Cache Service." },
-  {
-    "text": "INFO: user_83 updated account settings (Report: report_27, Format: PDF)."
-  },
+  {"text": "INFO: user_83 updated account settings (Report: report_27, Format: PDF)."},
   { "text": "INFO: Cache cleared on CRM." },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
-  {
-    "text": "INFO: user_69 logged in (Report: report_13, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_46 viewed dashboard (Report: report_32, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_91 encountered an error: Data not found (Report: report_19)."
-  },
-  {
-    "text": "INFO: user_59 scheduled an email (Report: report_41, Format: CSV)."
-  },
+  {"text": "INFO: System backup completed on Database."},
+  {"text": "INFO: user_69 logged in (Report: report_13, Format: CSV)."},
+  {"text": "INFO: user_46 viewed dashboard (Report: report_32, Format: Excel)."},
+  {"text": "ERROR: user_91 encountered an error: Data not found (Report: report_19)."},
+  {"text": "INFO: user_59 scheduled an email (Report: report_41, Format: CSV)."},
   { "text": "INFO: Cache cleared on Cache Service." },
-  {
-    "text": "INFO: Maintenance window started on Cache Service."
-  },
-  {
-    "text": "ERROR: user_21 encountered an error: Unauthorized action (Report: report_33)."
-  },
-  {
-    "text": "ERROR: user_69 encountered an error: Unauthorized action (Report: report_25)."
-  },
+  {"text": "INFO: Maintenance window started on Cache Service."},
+  {"text": "ERROR: user_21 encountered an error: Unauthorized action (Report: report_33)."},
+  {"text": "ERROR: user_69 encountered an error: Unauthorized action (Report: report_25)."},
   { "text": "INFO: Cache cleared on CRM." },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "ERROR: user_96 encountered an error: Invalid input (Report: report_8)."
-  },
-  {
-    "text": "INFO: user_12 logged out (Report: report_14, Format: PDF)."
-  },
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "ERROR: user_96 encountered an error: Invalid input (Report: report_8)."},
+  {"text": "INFO: user_12 logged out (Report: report_14, Format: PDF)."},
   { "text": "INFO: Report generated on CRM." },
   { "text": "INFO: Report generated on CRM." },
   { "text": "INFO: Data sync completed on CRM." },
-  {
-    "text": "ERROR: user_1 encountered an error: Invalid input (Report: report_39)."
-  },
-  {
-    "text": "ERROR: user_77 encountered an error: Email delivery failure (Report: report_46)."
-  },
-  {
-    "text": "ERROR: user_83 encountered an error: Email delivery failure (Report: report_44)."
-  },
-  {
-    "text": "ERROR: user_96 encountered an error: Permission denied (Report: report_46)."
-  },
-  {
-    "text": "ERROR: user_55 encountered an error: Invalid input (Report: report_42)."
-  },
+  {"text": "ERROR: user_1 encountered an error: Invalid input (Report: report_39)."},
+  {"text": "ERROR: user_77 encountered an error: Email delivery failure (Report: report_46)."},
+  {"text": "ERROR: user_83 encountered an error: Email delivery failure (Report: report_44)."},
+  {"text": "ERROR: user_96 encountered an error: Permission denied (Report: report_46)."},
+  {"text": "ERROR: user_55 encountered an error: Invalid input (Report: report_42)."},
   { "text": "INFO: Cache cleared on Reporting Engine." },
-  {
-    "text": "ERROR: user_47 encountered an error: Permission denied (Report: report_31)."
-  },
+  {"text": "ERROR: user_47 encountered an error: Permission denied (Report: report_31)."},
   { "text": "INFO: Report generated on Cache Service." },
-  {
-    "text": "INFO: System backup completed on Email Server."
-  },
+  {"text": "INFO: System backup completed on Email Server."},
   { "text": "INFO: Data sync completed on CRM." },
   { "text": "INFO: Cache cleared on Reporting Engine." },
-  {
-    "text": "INFO: API request processed on Email Server."
-  },
-  {
-    "text": "INFO: user_1 logged out (Report: report_28, Format: PDF)."
-  },
-  {
-    "text": "INFO: API request processed on Reporting Engine."
-  },
-  {
-    "text": "INFO: user_12 deleted a report (Report: report_7, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_5 generated a report (Report: report_45, Format: PDF)."
-  },
+  {"text": "INFO: API request processed on Email Server."},
+  {"text": "INFO: user_1 logged out (Report: report_28, Format: PDF)."},
+  {"text": "INFO: API request processed on Reporting Engine."},
+  {"text": "INFO: user_12 deleted a report (Report: report_7, Format: PDF)."},
+  {"text": "INFO: user_5 generated a report (Report: report_45, Format: PDF)."},
   { "text": "INFO: Email sent on Reporting Engine." },
   { "text": "INFO: Report generated on Cache Service." },
-  {
-    "text": "INFO: user_85 exported a report (Report: report_49, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_25 encountered an error: Invalid input (Report: report_1)."
-  },
-  {
-    "text": "INFO: user_54 viewed dashboard (Report: report_41, Format: PDF)."
-  },
+  {"text": "INFO: user_85 exported a report (Report: report_49, Format: PDF)."},
+  {"text": "ERROR: user_25 encountered an error: Invalid input (Report: report_1)."},
+  {"text": "INFO: user_54 viewed dashboard (Report: report_41, Format: PDF)."},
   { "text": "INFO: Data sync completed on Database." },
-  {
-    "text": "INFO: user_83 exported a report (Report: report_21, Format: Excel)."
-  },
+  {"text": "INFO: user_83 exported a report (Report: report_21, Format: Excel)."},
   { "text": "INFO: Cache cleared on Email Server." },
-  {
-    "text": "INFO: user_40 scheduled an email (Report: report_24, Format: Excel)."
-  },
-  {
-    "text": "INFO: Data sync completed on Cache Service."
-  },
-  {
-    "text": "ERROR: user_75 encountered an error: Email delivery failure (Report: report_12)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Reporting Engine."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Email Server."
-  },
-  {
-    "text": "INFO: API request processed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_25 encountered an error: Email delivery failure (Report: report_47)."
-  },
-  {
-    "text": "INFO: System backup completed on Database."
-  },
-  {
-    "text": "ERROR: user_23 encountered an error: Email delivery failure (Report: report_50)."
-  },
-  {
-    "text": "ERROR: user_8 encountered an error: Invalid input (Report: report_12)."
-  },
+  {"text": "INFO: user_40 scheduled an email (Report: report_24, Format: Excel)."},
+  {"text": "INFO: Data sync completed on Cache Service."},
+  {"text": "ERROR: user_75 encountered an error: Email delivery failure (Report: report_12)."},
+  {"text": "INFO: Scheduled task executed on Reporting Engine."},
+  {"text": "INFO: Scheduled task executed on Email Server."},
+  {"text": "INFO: API request processed on Reporting Engine."},
+  {"text": "ERROR: user_25 encountered an error: Email delivery failure (Report: report_47)."},
+  {"text": "INFO: System backup completed on Database."},
+  {"text": "ERROR: user_23 encountered an error: Email delivery failure (Report: report_50)."},
+  {"text": "ERROR: user_8 encountered an error: Invalid input (Report: report_12)."},
   { "text": "INFO: API request processed on Database." },
   { "text": "INFO: Email sent on Email Server." },
-  {
-    "text": "INFO: user_44 updated account settings (Report: report_11, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_59 encountered an error: Database timeout (Report: report_29)."
-  },
-  {
-    "text": "INFO: user_9 viewed dashboard (Report: report_26, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_8 encountered an error: Data not found (Report: report_23)."
-  },
-  {
-    "text": "INFO: user_66 viewed dashboard (Report: report_36, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_42 logged out (Report: report_46, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_70 logged out (Report: report_44, Format: Excel)."
-  },
-  {
-    "text": "INFO: Data sync completed on Email Server."
-  },
+  {"text": "INFO: user_44 updated account settings (Report: report_11, Format: CSV)."},
+  {"text": "ERROR: user_59 encountered an error: Database timeout (Report: report_29)."},
+  {"text": "INFO: user_9 viewed dashboard (Report: report_26, Format: CSV)."},
+  {"text": "ERROR: user_8 encountered an error: Data not found (Report: report_23)."},
+  {"text": "INFO: user_66 viewed dashboard (Report: report_36, Format: Excel)."},
+  {"text": "INFO: user_42 logged out (Report: report_46, Format: Excel)."},
+  {"text": "INFO: user_70 logged out (Report: report_44, Format: Excel)."},
+  {"text": "INFO: Data sync completed on Email Server."},
   { "text": "INFO: Cache cleared on Email Server." },
-  {
-    "text": "ERROR: user_100 encountered an error: Database timeout (Report: report_13)."
-  },
-  {
-    "text": "INFO: System backup completed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_9 encountered an error: Data not found (Report: report_3)."
-  },
-  {
-    "text": "INFO: API request processed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_1 encountered an error: Database timeout (Report: report_38)."
-  },
-  {
-    "text": "INFO: user_75 generated a report (Report: report_45, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_72 encountered an error: Database timeout (Report: report_29)."
-  },
-  {
-    "text": "ERROR: user_65 encountered an error: Database timeout (Report: report_13)."
-  },
-  {
-    "text": "INFO: user_21 generated a report (Report: report_30, Format: Excel)."
-  },
+  {"text": "ERROR: user_100 encountered an error: Database timeout (Report: report_13)."},
+  {"text": "INFO: System backup completed on Reporting Engine."},
+  {"text": "ERROR: user_9 encountered an error: Data not found (Report: report_3)."},
+  {"text": "INFO: API request processed on Reporting Engine."},
+  {"text": "ERROR: user_1 encountered an error: Database timeout (Report: report_38)."},
+  {"text": "INFO: user_75 generated a report (Report: report_45, Format: Excel)."},
+  {"text": "ERROR: user_72 encountered an error: Database timeout (Report: report_29)."},
+  {"text": "ERROR: user_65 encountered an error: Database timeout (Report: report_13)."},
+  {"text": "INFO: user_21 generated a report (Report: report_30, Format: Excel)."},
   { "text": "INFO: Email sent on CRM." },
-  {
-    "text": "INFO: user_54 changed password (Report: report_14, Format: PDF)."
-  },
+  {"text": "INFO: user_54 changed password (Report: report_14, Format: PDF)."},
   { "text": "INFO: Data sync completed on Database." },
-  {
-    "text": "INFO: API request processed on Reporting Engine."
-  },
+  {"text": "INFO: API request processed on Reporting Engine."},
   { "text": "INFO: Email sent on Email Server." },
   { "text": "INFO: Email sent on CRM." },
   { "text": "INFO: Email sent on Cache Service." },
-  {
-    "text": "INFO: user_88 viewed dashboard (Report: report_13, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_55 generated a report (Report: report_48, Format: CSV)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Cache Service."
-  },
-  {
-    "text": "ERROR: user_11 encountered an error: Invalid input (Report: report_19)."
-  },
-  {
-    "text": "ERROR: user_82 encountered an error: Email delivery failure (Report: report_17)."
-  },
-  {
-    "text": "INFO: user_3 updated account settings (Report: report_3, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_18 logged out (Report: report_45, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_72 logged out (Report: report_24, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_41 encountered an error: Data not found (Report: report_6)."
-  },
-  {
-    "text": "INFO: user_2 scheduled an email (Report: report_20, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_62 encountered an error: Unauthorized action (Report: report_48)."
-  },
+  {"text": "INFO: user_88 viewed dashboard (Report: report_13, Format: CSV)."},
+  {"text": "INFO: user_55 generated a report (Report: report_48, Format: CSV)."},
+  {"text": "INFO: Scheduled task executed on Cache Service."},
+  {"text": "ERROR: user_11 encountered an error: Invalid input (Report: report_19)."},
+  {"text": "ERROR: user_82 encountered an error: Email delivery failure (Report: report_17)."},
+  {"text": "INFO: user_3 updated account settings (Report: report_3, Format: PDF)."},
+  {"text": "INFO: user_18 logged out (Report: report_45, Format: Excel)."},
+  {"text": "INFO: user_72 logged out (Report: report_24, Format: Excel)."},
+  {"text": "ERROR: user_41 encountered an error: Data not found (Report: report_6)."},
+  {"text": "INFO: user_2 scheduled an email (Report: report_20, Format: Excel)."},
+  {"text": "ERROR: user_62 encountered an error: Unauthorized action (Report: report_48)."},
   { "text": "INFO: System backup completed on CRM." },
-  {
-    "text": "INFO: user_11 changed password (Report: report_12, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_62 viewed dashboard (Report: report_23, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_53 scheduled an email (Report: report_35, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_77 encountered an error: Invalid input (Report: report_40)."
-  },
-  {
-    "text": "INFO: API request processed on Cache Service."
-  },
-  {
-    "text": "INFO: user_31 exported a report (Report: report_44, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_34 encountered an error: Invalid input (Report: report_14)."
-  },
-  {
-    "text": "INFO: Report generated on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_27 encountered an error: Unauthorized action (Report: report_17)."
-  },
-  {
-    "text": "INFO: user_57 changed password (Report: report_27, Format: PDF)."
-  },
-  {
-    "text": "INFO: System backup completed on Reporting Engine."
-  },
-  {
-    "text": "INFO: API request processed on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_54 encountered an error: Data not found (Report: report_22)."
-  },
-  {
-    "text": "INFO: user_55 deleted a report (Report: report_38, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_77 encountered an error: Database timeout (Report: report_23)."
-  },
-  {
-    "text": "INFO: user_25 logged in (Report: report_30, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_45 encountered an error: Permission denied (Report: report_23)."
-  },
-  {
-    "text": "ERROR: user_80 encountered an error: Permission denied (Report: report_33)."
-  },
-  {
-    "text": "INFO: user_91 updated account settings (Report: report_17, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_29 deleted a report (Report: report_42, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_74 encountered an error: Database timeout (Report: report_38)."
-  },
-  {
-    "text": "ERROR: user_11 encountered an error: Database timeout (Report: report_8)."
-  },
-  {
-    "text": "INFO: user_9 generated a report (Report: report_19, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_27 encountered an error: Invalid input (Report: report_18)."
-  },
-  {
-    "text": "INFO: user_59 scheduled an email (Report: report_22, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_60 encountered an error: Permission denied (Report: report_38)."
-  },
-  {
-    "text": "INFO: user_15 logged out (Report: report_11, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_62 encountered an error: Invalid input (Report: report_26)."
-  },
-  {
-    "text": "INFO: user_39 logged in (Report: report_24, Format: PDF)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Cache Service."
-  },
-  {
-    "text": "ERROR: user_78 encountered an error: Unauthorized action (Report: report_18)."
-  },
-  {
-    "text": "ERROR: user_93 encountered an error: Unauthorized action (Report: report_1)."
-  },
-  {
-    "text": "ERROR: user_86 encountered an error: Permission denied (Report: report_14)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "INFO: Maintenance window started on Database."
-  },
-  {
-    "text": "INFO: user_5 logged in (Report: report_24, Format: Excel)."
-  },
+  {"text": "INFO: user_11 changed password (Report: report_12, Format: CSV)."},
+  {"text": "INFO: user_62 viewed dashboard (Report: report_23, Format: PDF)."},
+  {"text": "INFO: user_53 scheduled an email (Report: report_35, Format: PDF)."},
+  {"text": "ERROR: user_77 encountered an error: Invalid input (Report: report_40)."},
+  {"text": "INFO: API request processed on Cache Service."},
+  {"text": "INFO: user_31 exported a report (Report: report_44, Format: PDF)."},
+  {"text": "ERROR: user_34 encountered an error: Invalid input (Report: report_14)."},
+  {"text": "INFO: Report generated on Reporting Engine."},
+  {"text": "ERROR: user_27 encountered an error: Unauthorized action (Report: report_17)."},
+  {"text": "INFO: user_57 changed password (Report: report_27, Format: PDF)."},
+  {"text": "INFO: System backup completed on Reporting Engine."},
+  {"text": "INFO: API request processed on Reporting Engine."},
+  {"text": "ERROR: user_54 encountered an error: Data not found (Report: report_22)."},
+  {"text": "INFO: user_55 deleted a report (Report: report_38, Format: CSV)."},
+  {"text": "ERROR: user_77 encountered an error: Database timeout (Report: report_23)."},
+  {"text": "INFO: user_25 logged in (Report: report_30, Format: PDF)."},
+  {"text": "ERROR: user_45 encountered an error: Permission denied (Report: report_23)."},
+  {"text": "ERROR: user_80 encountered an error: Permission denied (Report: report_33)."},
+  {"text": "INFO: user_91 updated account settings (Report: report_17, Format: CSV)."},
+  {"text": "INFO: user_29 deleted a report (Report: report_42, Format: Excel)."},
+  {"text": "ERROR: user_74 encountered an error: Database timeout (Report: report_38)."},
+  {"text": "ERROR: user_11 encountered an error: Database timeout (Report: report_8)."},
+  {"text": "INFO: user_9 generated a report (Report: report_19, Format: PDF)."},
+  {"text": "ERROR: user_27 encountered an error: Invalid input (Report: report_18)."},
+  {"text": "INFO: user_59 scheduled an email (Report: report_22, Format: CSV)."},
+  {"text": "ERROR: user_60 encountered an error: Permission denied (Report: report_38)."},
+  {"text": "INFO: user_15 logged out (Report: report_11, Format: CSV)."},
+  {"text": "ERROR: user_62 encountered an error: Invalid input (Report: report_26)."},
+  {"text": "INFO: user_39 logged in (Report: report_24, Format: PDF)."},
+  {"text": "INFO: Scheduled task executed on Cache Service."},
+  {"text": "ERROR: user_78 encountered an error: Unauthorized action (Report: report_18)."},
+  {"text": "ERROR: user_93 encountered an error: Unauthorized action (Report: report_1)."},
+  {"text": "ERROR: user_86 encountered an error: Permission denied (Report: report_14)."},
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "INFO: Maintenance window started on Database."},
+  {"text": "INFO: user_5 logged in (Report: report_24, Format: Excel)."},
   { "text": "INFO: Cache cleared on CRM." },
-  {
-    "text": "ERROR: user_7 encountered an error: Data not found (Report: report_19)."
-  },
-  {
-    "text": "INFO: user_74 scheduled an email (Report: report_25, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_47 logged in (Report: report_39, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_56 encountered an error: Permission denied (Report: report_35)."
-  },
-  {
-    "text": "INFO: user_50 logged out (Report: report_32, Format: PDF)."
-  },
+  {"text": "ERROR: user_7 encountered an error: Data not found (Report: report_19)."},
+  {"text": "INFO: user_74 scheduled an email (Report: report_25, Format: Excel)."},
+  {"text": "INFO: user_47 logged in (Report: report_39, Format: PDF)."},
+  {"text": "ERROR: user_56 encountered an error: Permission denied (Report: report_35)."},
+  {"text": "INFO: user_50 logged out (Report: report_32, Format: PDF)."},
   { "text": "INFO: Report generated on Email Server." },
-  {
-    "text": "INFO: Maintenance window started on Reporting Engine."
-  },
-  {
-    "text": "ERROR: user_44 encountered an error: Unauthorized action (Report: report_28)."
-  },
-  {
-    "text": "INFO: user_83 exported a report (Report: report_1, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_8 deleted a report (Report: report_48, Format: PDF)."
-  },
-  {
-    "text": "INFO: API request processed on Cache Service."
-  },
-  {
-    "text": "INFO: user_44 scheduled an email (Report: report_8, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_23 logged in (Report: report_37, Format: Excel)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "INFO: user_20 exported a report (Report: report_19, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_65 updated account settings (Report: report_50, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_45 encountered an error: Invalid input (Report: report_33)."
-  },
-  {
-    "text": "INFO: user_8 viewed dashboard (Report: report_46, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_79 generated a report (Report: report_31, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_30 encountered an error: Database timeout (Report: report_42)."
-  },
+  {"text": "INFO: Maintenance window started on Reporting Engine."},
+  {"text": "ERROR: user_44 encountered an error: Unauthorized action (Report: report_28)."},
+  {"text": "INFO: user_83 exported a report (Report: report_1, Format: Excel)."},
+  {"text": "INFO: user_8 deleted a report (Report: report_48, Format: PDF)."},
+  {"text": "INFO: API request processed on Cache Service."},
+  {"text": "INFO: user_44 scheduled an email (Report: report_8, Format: Excel)."},
+  {"text": "INFO: user_23 logged in (Report: report_37, Format: Excel)."},
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "INFO: user_20 exported a report (Report: report_19, Format: Excel)."},
+  {"text": "INFO: user_65 updated account settings (Report: report_50, Format: CSV)."},
+  {"text": "ERROR: user_45 encountered an error: Invalid input (Report: report_33)."},
+  {"text": "INFO: user_8 viewed dashboard (Report: report_46, Format: CSV)."},
+  {"text": "INFO: user_79 generated a report (Report: report_31, Format: CSV)."},
+  {"text": "ERROR: user_30 encountered an error: Database timeout (Report: report_42)."},
   { "text": "INFO: Data sync completed on CRM." },
-  {
-    "text": "ERROR: user_47 encountered an error: Permission denied (Report: report_28)."
-  },
-  {
-    "text": "ERROR: user_100 encountered an error: Email delivery failure (Report: report_36)."
-  },
-  {
-    "text": "ERROR: user_28 encountered an error: Data not found (Report: report_8)."
-  },
-  {
-    "text": "ERROR: user_46 encountered an error: Data not found (Report: report_23)."
-  },
-  {
-    "text": "INFO: user_56 deleted a report (Report: report_37, Format: Excel)."
-  },
-  {
-    "text": "INFO: Data sync completed on Cache Service."
-  },
-  {
-    "text": "ERROR: user_22 encountered an error: Data not found (Report: report_29)."
-  },
-  {
-    "text": "INFO: user_91 logged in (Report: report_16, Format: CSV)."
-  },
+  {"text": "ERROR: user_47 encountered an error: Permission denied (Report: report_28)."},
+  {"text": "ERROR: user_100 encountered an error: Email delivery failure (Report: report_36)."},
+  {"text": "ERROR: user_28 encountered an error: Data not found (Report: report_8)."},
+  {"text": "ERROR: user_46 encountered an error: Data not found (Report: report_23)."},
+  {"text": "INFO: user_56 deleted a report (Report: report_37, Format: Excel)."},
+  {"text": "INFO: Data sync completed on Cache Service."},
+  {"text": "ERROR: user_22 encountered an error: Data not found (Report: report_29)."},
+  {"text": "INFO: user_91 logged in (Report: report_16, Format: CSV)."},
   { "text": "INFO: Email sent on Email Server." },
-  {
-    "text": "INFO: user_33 exported a report (Report: report_19, Format: CSV)."
-  },
-  {
-    "text": "INFO: API request processed on Email Server."
-  },
-  {
-    "text": "ERROR: user_68 encountered an error: Unauthorized action (Report: report_38)."
-  },
-  {
-    "text": "INFO: Data sync completed on Cache Service."
-  },
-  {
-    "text": "INFO: user_12 changed password (Report: report_44, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_76 logged in (Report: report_49, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_6 viewed dashboard (Report: report_19, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_2 scheduled an email (Report: report_20, Format: Excel)."
-  },
+  {"text": "INFO: user_33 exported a report (Report: report_19, Format: CSV)."},
+  {"text": "INFO: API request processed on Email Server."},
+  {"text": "ERROR: user_68 encountered an error: Unauthorized action (Report: report_38)."},
+  {"text": "INFO: Data sync completed on Cache Service."},
+  {"text": "INFO: user_12 changed password (Report: report_44, Format: CSV)."},
+  {"text": "INFO: user_76 logged in (Report: report_49, Format: PDF)."},
+  {"text": "INFO: user_6 viewed dashboard (Report: report_19, Format: PDF)."},
+  {"text": "INFO: user_2 scheduled an email (Report: report_20, Format: Excel)."},
   { "text": "INFO: System backup completed on CRM." },
-  {
-    "text": "ERROR: user_57 encountered an error: Data not found (Report: report_34)."
-  },
-  {
-    "text": "ERROR: user_11 encountered an error: Invalid input (Report: report_22)."
-  },
+  {"text": "ERROR: user_57 encountered an error: Data not found (Report: report_34)."},
+  {"text": "ERROR: user_11 encountered an error: Invalid input (Report: report_22)."},
   { "text": "INFO: System backup completed on CRM." },
-  {
-    "text": "ERROR: user_9 encountered an error: Permission denied (Report: report_46)."
-  },
-  {
-    "text": "INFO: user_37 exported a report (Report: report_46, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_45 updated account settings (Report: report_28, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_14 deleted a report (Report: report_32, Format: Excel)."
-  },
+  {"text": "ERROR: user_9 encountered an error: Permission denied (Report: report_46)."},
+  {"text": "INFO: user_37 exported a report (Report: report_46, Format: PDF)."},
+  {"text": "INFO: user_45 updated account settings (Report: report_28, Format: PDF)."},
+  {"text": "INFO: user_14 deleted a report (Report: report_32, Format: Excel)."},
   { "text": "INFO: System backup completed on CRM." },
-  {
-    "text": "ERROR: user_20 encountered an error: Unauthorized action (Report: report_5)."
-  },
-  {
-    "text": "INFO: Report generated on Reporting Engine."
-  },
+  {"text": "ERROR: user_20 encountered an error: Unauthorized action (Report: report_5)."},
+  {"text": "INFO: Report generated on Reporting Engine."},
   { "text": "INFO: Cache cleared on Database." },
-  {
-    "text": "INFO: user_77 deleted a report (Report: report_39, Format: CSV)."
-  },
-  {
-    "text": "INFO: API request processed on Email Server."
-  },
-  {
-    "text": "ERROR: user_47 encountered an error: Invalid input (Report: report_45)."
-  },
-  {
-    "text": "INFO: Scheduled task executed on Database."
-  },
-  {
-    "text": "ERROR: user_28 encountered an error: Email delivery failure (Report: report_40)."
-  },
-  {
-    "text": "ERROR: user_16 encountered an error: Permission denied (Report: report_9)."
-  },
-  {
-    "text": "INFO: API request processed on Reporting Engine."
-  },
+  {"text": "INFO: user_77 deleted a report (Report: report_39, Format: CSV)."},
+  {"text": "INFO: API request processed on Email Server."},
+  {"text": "ERROR: user_47 encountered an error: Invalid input (Report: report_45)."},
+  {"text": "INFO: Scheduled task executed on Database."},
+  {"text": "ERROR: user_28 encountered an error: Email delivery failure (Report: report_40)."},
+  {"text": "ERROR: user_16 encountered an error: Permission denied (Report: report_9)."},
+  {"text": "INFO: API request processed on Reporting Engine."},
   { "text": "INFO: Cache cleared on Email Server." },
-  {
-    "text": "INFO: System backup completed on Cache Service."
-  },
-  {
-    "text": "INFO: user_43 exported a report (Report: report_48, Format: CSV)."
-  },
-  {
-    "text": "INFO: user_73 logged in (Report: report_20, Format: CSV)."
-  },
-  {
-    "text": "INFO: Maintenance window started on Database."
-  },
-  {
-    "text": "ERROR: user_79 encountered an error: Data not found (Report: report_26)."
-  },
-  {
-    "text": "INFO: user_72 exported a report (Report: report_17, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_36 encountered an error: Database timeout (Report: report_21)."
-  },
-  {
-    "text": "INFO: user_67 viewed dashboard (Report: report_40, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_12 deleted a report (Report: report_28, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_52 encountered an error: Invalid input (Report: report_26)."
-  },
-  {
-    "text": "INFO: user_68 viewed dashboard (Report: report_11, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_97 encountered an error: Unauthorized action (Report: report_19)."
-  },
-  {
-    "text": "ERROR: user_25 encountered an error: Invalid input (Report: report_1)."
-  },
-  {
-    "text": "INFO: user_85 generated a report (Report: report_25, Format: CSV)."
-  },
-  {
-    "text": "ERROR: user_27 encountered an error: Permission denied (Report: report_6)."
-  },
-  {
-    "text": "ERROR: user_16 encountered an error: Data not found (Report: report_40)."
-  },
-  {
-    "text": "INFO: user_85 scheduled an email (Report: report_6, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_78 encountered an error: Unauthorized action (Report: report_34)."
-  },
-  {
-    "text": "ERROR: user_20 encountered an error: Permission denied (Report: report_40)."
-  },
-  {
-    "text": "ERROR: user_30 encountered an error: Permission denied (Report: report_46)."
-  },
-  {
-    "text": "ERROR: user_77 encountered an error: Data not found (Report: report_47)."
-  },
-  {
-    "text": "INFO: user_32 deleted a report (Report: report_38, Format: Excel)."
-  },
+  {"text": "INFO: System backup completed on Cache Service."},
+  {"text": "INFO: user_43 exported a report (Report: report_48, Format: CSV)."},
+  {"text": "INFO: user_73 logged in (Report: report_20, Format: CSV)."},
+  {"text": "INFO: Maintenance window started on Database."},
+  {"text": "ERROR: user_79 encountered an error: Data not found (Report: report_26)."},
+  {"text": "INFO: user_72 exported a report (Report: report_17, Format: PDF)."},
+  {"text": "ERROR: user_36 encountered an error: Database timeout (Report: report_21)."},
+  {"text": "INFO: user_67 viewed dashboard (Report: report_40, Format: Excel)."},
+  {"text": "INFO: user_12 deleted a report (Report: report_28, Format: Excel)."},
+  {"text": "ERROR: user_52 encountered an error: Invalid input (Report: report_26)."},
+  {"text": "INFO: user_68 viewed dashboard (Report: report_11, Format: Excel)."},
+  {"text": "ERROR: user_97 encountered an error: Unauthorized action (Report: report_19)."},
+  {"text": "ERROR: user_25 encountered an error: Invalid input (Report: report_1)."},
+  {"text": "INFO: user_85 generated a report (Report: report_25, Format: CSV)."},
+  {"text": "ERROR: user_27 encountered an error: Permission denied (Report: report_6)."},
+  {"text": "ERROR: user_16 encountered an error: Data not found (Report: report_40)."},
+  {"text": "INFO: user_85 scheduled an email (Report: report_6, Format: Excel)."},
+  {"text": "ERROR: user_78 encountered an error: Unauthorized action (Report: report_34)."},
+  {"text": "ERROR: user_20 encountered an error: Permission denied (Report: report_40)."},
+  {"text": "ERROR: user_30 encountered an error: Permission denied (Report: report_46)."},
+  {"text": "ERROR: user_77 encountered an error: Data not found (Report: report_47)."},
+  {"text": "INFO: user_32 deleted a report (Report: report_38, Format: Excel)."},
   { "text": "INFO: Email sent on Reporting Engine." },
-  {
-    "text": "ERROR: user_31 encountered an error: Permission denied (Report: report_36)."
-  },
+  {"text": "ERROR: user_31 encountered an error: Permission denied (Report: report_36)."},
   { "text": "INFO: Data sync completed on CRM." },
-  {
-    "text": "INFO: user_77 scheduled an email (Report: report_2, Format: Excel)."
-  },
-  {
-    "text": "INFO: user_73 generated a report (Report: report_34, Format: PDF)."
-  },
-  {
-    "text": "INFO: user_87 generated a report (Report: report_26, Format: PDF)."
-  },
+  {"text": "INFO: user_77 scheduled an email (Report: report_2, Format: Excel)."},
+  {"text": "INFO: user_73 generated a report (Report: report_34, Format: PDF)."},
+  {"text": "INFO: user_87 generated a report (Report: report_26, Format: PDF)."},
   { "text": "INFO: Scheduled task executed on CRM." },
-  {
-    "text": "INFO: Maintenance window started on Database."
-  },
-  {
-    "text": "ERROR: user_62 encountered an error: Email delivery failure (Report: report_4)."
-  },
-  {
-    "text": "INFO: user_25 logged out (Report: report_13, Format: Excel)."
-  },
-  {
-    "text": "ERROR: user_12 encountered an error: Database timeout (Report: report_49)."
-  },
+  {"text": "INFO: Maintenance window started on Database."},
+  {"text": "ERROR: user_62 encountered an error: Email delivery failure (Report: report_4)."},
+  {"text": "INFO: user_25 logged out (Report: report_13, Format: Excel)."},
+  {"text": "ERROR: user_12 encountered an error: Database timeout (Report: report_49)."},
   { "text": "INFO: Cache cleared on CRM." },
-  {
-    "text": "INFO: Maintenance window started on Email Server."
-  },
-  {
-    "text": "ERROR: user_82 encountered an error: Unauthorized action (Report: report_29)."
-  },
-  {
-    "text": "INFO: System backup completed on Cache Service."
-  },
-  {
-    "text": "INFO: user_31 logged in (Report: report_5, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_90 encountered an error: Permission denied (Report: report_15)."
-  },
-  {
-    "text": "INFO: user_92 updated account settings (Report: report_21, Format: CSV)."
-  },
-  {
-    "text": "INFO: System backup completed on Email Server."
-  },
-  {
-    "text": "ERROR: user_70 encountered an error: Email delivery failure (Report: report_19)."
-  },
-  {
-    "text": "ERROR: user_22 encountered an error: Database timeout (Report: report_19)."
-  },
-  {
-    "text": "INFO: user_30 logged in (Report: report_48, Format: PDF)."
-  },
-  {
-    "text": "ERROR: user_79 encountered an error: Permission denied (Report: report_21)."
-  },
-  {
-    "text": "[2024-01-03 03:02:36] INFO: API request processed on Email Server."
-  }
+  {"text": "INFO: Maintenance window started on Email Server."},
+  {"text": "ERROR: user_82 encountered an error: Unauthorized action (Report: report_29)."},
+  {"text": "INFO: System backup completed on Cache Service."},
+  {"text": "INFO: user_31 logged in (Report: report_5, Format: PDF)."},
+  {"text": "ERROR: user_90 encountered an error: Permission denied (Report: report_15)."},
+  {"text": "INFO: user_92 updated account settings (Report: report_21, Format: CSV)."},
+  {"text": "INFO: System backup completed on Email Server."},
+  {"text": "ERROR: user_70 encountered an error: Email delivery failure (Report: report_19)."},
+  {"text": "ERROR: user_22 encountered an error: Database timeout (Report: report_19)."},
+  {"text": "INFO: user_30 logged in (Report: report_48, Format: PDF)."},
+  {"text": "ERROR: user_79 encountered an error: Permission denied (Report: report_21)."},
+  {"text": "[2024-01-03 03:02:36] INFO: API request processed on Email Server."}
 ]

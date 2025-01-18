@@ -154,6 +154,7 @@ onUnmounted(() => {
     gap: 2px;
     background-color: white;
     min-height: 0;
+    overflow: scroll;
 }
 .criticalMachines {
     background-color: black;
@@ -180,7 +181,6 @@ onUnmounted(() => {
 .allMachines {
     display: flex;
     flex-direction: column;
-    border: 1px solid white;
     padding: 10px;
     font-size: 12px;
     background-color: black;
