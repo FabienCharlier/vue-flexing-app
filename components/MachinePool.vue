@@ -138,7 +138,7 @@ onUnmounted(() => {
         <div class="allMachines">
             <div class="allMachineLine" v-for="machine in allMachines" :key="machine.name">
                 <span>{{ machine.name }}</span>
-                <MachineState :state="machine.state" />
+                <MachineState :state="machine.state" text-align="right" />
             </div>
         </div>
     </div>
@@ -150,17 +150,28 @@ onUnmounted(() => {
     border: 1px solid white;
     display: grid;
     grid-template-columns: 8fr 3fr;
-    max-height: 100%;
+    max-height: calc(100vh - 20px);
     gap: 2px;
     background-color: white;
     min-height: 0;
 }
+@media (min-width: 921px) {
+    .machine-pool {
+        max-height: calc(50vh - 30px);
+    }
+}
 .criticalMachines {
     background-color: black;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
     gap: 10px
+}
+@media (min-width: 921px) {
+    .criticalMachines {
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+    }
 }
 .criticalMachineLine {
     display: flex;
@@ -189,9 +200,15 @@ onUnmounted(() => {
     scrollbar-width: thin;
     scrollbar-color: white black;
     min-height: 0;
+    gap: 1px;
 }
 .allMachineLine {
     display: flex;
     justify-content: space-between;
+}
+@media (max-width: 920px) {
+    .allMachineLine {
+        flex-direction: column;
+    }
 }
 </style>

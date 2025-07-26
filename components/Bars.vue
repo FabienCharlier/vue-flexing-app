@@ -208,12 +208,22 @@ watchEffect(() => {
   background-color: black;
   border: 1px solid white;
   padding: 15px;
-  max-height: 100%;
+  min-height: calc(100vh - 20px);
+  max-height: calc(100vh - 20px);
+  max-width: calc(100vw - 20px);
   font-family: monospace;
   display: grid;
-  grid-template-columns: 2fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
   gap: 10px;
+}
+@media (min-width: 921px) {
+    .terminal {
+        min-height: unset;
+        max-height: calc(50vh - 30px);
+        max-width: unset;
+        grid-template-columns: 2fr 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
 }
 
 .circularGraphs {
@@ -231,6 +241,12 @@ watchEffect(() => {
     align-items: center;
     gap: 10px;
 }
+@media (max-width: 920px) {
+    .horizontalBars {
+      align-items: flex-start;
+      padding-left: 10px;
+    }
+}
 
 .multipleBars {
     display: flex;
@@ -246,5 +262,10 @@ watchEffect(() => {
     gap: 5px;
     padding: 15px 10px;
     justify-content: center;
+}
+@media (max-width: 920px) {
+    .textInfo {
+        grid-row: 2 / 3;
+    }
 }
 </style>

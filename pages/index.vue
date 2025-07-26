@@ -81,11 +81,18 @@ useSeoMeta({
 
     .grid-main-container {
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 9fr 9fr;
-        gap: 20px;
-        height: calc(100% - 40px);
-        padding: 20px;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+        gap: 10px;
+        padding: 10px;
+    }
+    @media (min-width: 921px) {
+        .grid-main-container {
+            grid-template-columns: repeat(2, 1fr);
+            grid-template-rows: 9fr 9fr;
+            gap: 20px;
+            height: 100vh;
+            padding: 20px;
+        }
     }
 
     .single-widget {
@@ -94,23 +101,30 @@ useSeoMeta({
     }
 
     .configurationPanel {
-        position: absolute;
+        position: fixed;
         background-color: black;
         color: white;
         border: 2px solid white;
         box-sizing: border-box;
         height: 100%;
-        width: 35%;
+        width: 85%;
         top: 0;
         right: 0;
         display: flex;
         flex-direction: column;
         gap: 10px;
         align-items: center;
+        overflow: scroll;
+        padding-bottom: 20px;
+    }
+    @media (min-width: 921px) {
+        .configurationPanel {
+            width: 35%;
+        }
     }
 
     .configurationPanelButton {
-        position: absolute;
+        position: fixed;
         bottom: 0;
         left: 0;
         background-color: black;

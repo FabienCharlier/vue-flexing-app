@@ -128,12 +128,21 @@ onUnmounted(() => {
   background-color: black;
   color: #39FF14;
   border: 1px solid white;
-  max-height: 100%;
+  min-height: calc(100vh - 20px);
+  max-height: calc(100vh - 20px);
+  max-width: calc(100vw - 20px);
   overflow: hidden;
   display: flex;
   flex-direction: column;
   position: relative;
   font-family: monospace;
+}
+@media (min-width: 921px) {
+    .terminal {
+        min-height: unset;
+        max-height: calc(50vh - 30px);
+        max-width: unset;
+    }
 }
 
 .linesContainer {
